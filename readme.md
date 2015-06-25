@@ -6,6 +6,10 @@ Acorns 是個素材收集庫。這些素材的主要服務對象是製作輸入�
 
 ## 字
 
+#### 部件檢索
+http://blog.xuite.net/fg_wang/twblog/309627490
+原爲 mdx ，通過 JavaScript 實現查詢，轉爲 tsv 。
+
 #### ids
 https://github.com/cjkvi/cjkvi-ids/blob/master/ids.txt
 http://kanji-database.sourceforge.net/ids/ids.html
@@ -44,6 +48,6 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=899628 20140415 版
 原爲 Excel 文件，純文字表格轉爲 tsv 。
 
-#### 三大辭書
+#### 漢語大字典+中文大辭典+故訓匯纂
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 漢語大字典+中文大辭典+故訓匯纂聯合，提取其 data-sorted.js 。
