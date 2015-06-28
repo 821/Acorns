@@ -6,15 +6,17 @@ Acorns 是個素材收集庫。這些素材的主要服務對象是製作輸入�
 
 ## 字
 
-#### 部件檢索
-http://blog.xuite.net/fg_wang/twblog/309627490
-原爲 mdx ，通過 JavaScript 實現查詢，轉爲 tsv 。
-
 #### ids
 https://github.com/cjkvi/cjkvi-ids/blob/master/ids.txt
 http://kanji-database.sourceforge.net/ids/ids.html
 漢字拆解成部分，比如「明」拆成「日月」。
 問題很多，暫不整理。
+又，「[零時字引](https://github.com/g0v/z0y/)」就是用了這份材料。
+
+#### 部件檢索
+http://blog.xuite.net/fg_wang/twblog/309627490
+原爲 mdx ，通過 JavaScript 實現查詢，轉爲 tsv 。
+事實上也吸收了 ids.txt 的成果。
 
 #### 四角號碼
 http://bbs.unispim.com/forum.php?mod=viewthread&tid=31674 
@@ -40,6 +42,10 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
 https://github.com/cjkvi/cjkvi-dict/blob/master/dkw2ucs.txt
 https://github.com/cjkvi/cjkvi-dict/blob/master/dkw-word.txt
 
+#### 漢語大詞典
+https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt
+剝離出了紙本部分的詞彙。由於源文件使用了大量的日本漢字，而且舊字型也不符合漢大詞的習慣，所以用自己寫的一個列表「漢大詞用字」來把用字修正爲與紙本儘量統一的狀態。
+
 #### 康煕字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 根據新版 Unicode 修正了「况」和「㤺」。
@@ -51,3 +57,8 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=899628 20140415 版
 #### 漢語大字典+中文大辭典+故訓匯纂
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 漢語大字典+中文大辭典+故訓匯纂聯合，提取其 data-sorted.js 。
+
+## 其他
+
+#### 漢大詞用字
+一個爲 EverEdit 服務的腳本，可以批量替換。
