@@ -51,8 +51,8 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 根據新版 Unicode 修正了「况」和「㤺」。
 
 #### 漢語大字典 第二版
-http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=899628 20140415 版
-原爲 Excel 文件，純文字表格轉爲 tsv 。
+http://bbs.unispim.com/forum.php?mod=redirect&goto=findpost&ptid=31606&pid=121595
+retrieve date: 2015/06/30
 
 #### 漢語大字典+中文大辭典+故訓匯纂
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
