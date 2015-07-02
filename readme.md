@@ -62,3 +62,6 @@ http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 
 #### 漢大詞用字
 一個爲 EverEdit 服務的腳本，可以批量替換。
+
+#### 廣韻全字表
+http://www.pkucn.com/viewthread.php?tid=175767
