@@ -59,7 +59,7 @@ http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 漢語大字典+中文大辭典+故訓匯纂聯合，提取其 data-sorted.js 。
 
 #### 異體字字典
-抓取 [GlyphWiki](http://glyphwiki.org/wiki/Group:%e6%95%99%e8%82%b2%e9%83%a8%e7%95%b0%e9%ab%94%e5%ad%97%e5%ad%97%e5%85%b8) 上所有相關鏈接處理而得。
+https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
 
 ## 其他
 
