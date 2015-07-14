@@ -32,6 +32,10 @@ https://github.com/lukhnos/openvanilla/blob/master/DataTables/bpmf-ext.cin
 97968 條臺灣單字讀音數據。
 同項目還有行列、大易之類臺灣輸入法的碼表，然並卵。
 
+#### cns2py
+https://github.com/cjkvi/cjkvi-data/blob/master/cns2py.txt
+90933 個漢字的臺灣讀音。
+
 #### 古籍字頻統計
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
 原爲 Excel 文件，轉爲 tsv 。
