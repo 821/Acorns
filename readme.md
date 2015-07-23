@@ -54,6 +54,12 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/hydcd-word.txt
 https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 根據新版 Unicode 修正了「况」和「㤺」。
 
+#### 開放康煕字典
+https://github.com/ksanaforge/kangxizidian/
+臺灣人王志攀點校的康煕字典。
+把一堆 xml 文件合倂成一個，並去掉多餘信息。
+該文件喜歡自作聰明，將不倫不類的臺灣現行標準強加於康煕字典之上。
+
 #### 漢語大字典 第二版
 http://bbs.unispim.com/forum.php?mod=redirect&goto=findpost&ptid=31606&pid=121595
 retrieve date: 2015/06/30
