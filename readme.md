@@ -57,7 +57,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 大抵帶星號的是某個字頭下的「古文」。
 個別拆字不是很好，比如 1123.33 ，作「⿳⿲⿷匚一⿱古八𠆢？」（那個問號不知道是幹嘛），不如作「⿳⿶𦥑古八⿱人女」。還有 111.30 ，應該是「⿳巛𠔿⿵冂厶」。
 「柵の形が微妙に違う」改作「⿰木𠕁」。
-1602.022 誤作「𣨂」，改爲「⿱𢀸廾」
+1602.022 誤作「𣨂」，改爲「⿱𢀸廾」。
 
 #### 開放康煕字典
 https://github.com/ksanaforge/kangxizidian/
@@ -75,6 +75,10 @@ http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 
 #### 異體字字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
+
+#### 四庫大辭典
+在百度雲網盤上看到的一個 mdx ，基於李學勤版四庫大辭典。
+源文件錯誤非常多，隨手修正了約一百條。
 
 ## 其他
 
