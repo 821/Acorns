@@ -75,6 +75,15 @@ http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 
 #### 異體字字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
+這個文件可以檢索到五萬多個字，收錄時去掉了 twedu- 這個無用前綴。
+另外這個文件竟然有一些官網沒有的字，可能是原來有，但被刪除了。
+
+#### 異體字字典2
+https://github.com/kcwu/moedict-variants/blob/master/list.txt
+說明見其 [Wiki Page](https://github.com/kcwu/moedict-variants/wiki) 。
+我把文件中的 /variants/tmp/ 和 .png 去掉了。
+跟日本人做的文件相比，多了圖片地址。然而異體字字典原本是 Big5 的，向 Unicode 的推進過程不完善，很多 Unicode 已經有的字在日本版有了，但本文件跟官網一樣，衹能直接檢索到兩萬字。
+此處順便吐槽一下異體字字典，修到第五版還不能直接檢索，第六版可以檢索了，又無聊把圖片的 link 全部改掉。比如原本一個字的字號是 B00001 ，那麼他的正字通的圖片名稱就是 B0000137.jpg ，其中 37 是第 37 部辭書的意思。現在是把所有的字的圖片編在一起，比如這張圖片之前有 12345 張圖片，那他就是 12346.png 。
 
 #### 四庫大辭典
 在百度雲網盤上看到的一個 mdx ，基於李學勤版四庫大辭典。
