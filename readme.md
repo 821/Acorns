@@ -42,6 +42,12 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
 
 ## 索引
 
+#### 說文解字圖像查閱
+http://www.byscrj.com/jmm/shuowen/dcd.js
+retrieve date: 2015/08/20
+各項依次爲字頭，詁林正編，詁林補遺，詁林補編，詁林後編外編，通訓定聲，祁嶲藻繫傳，述古堂繫傳，段注，連筠簃義證，崇文義證，句讀，宋本，藤花榭，汲古閣，孫星衍，陳昌治。
+在線查閱：http://www.byscrj.com/jmm/shuowen/find.html
+
 #### 洪武正韻
 https://github.com/BYVoid/ytenx/blob/11dfc4bbfcb27857826efffc8463b0362af87b04/ytenx/tcenghyonhtsen/data/Dzih.txt
 保留字頭、頁碼、韻部、聲調、反切，流水號和拉丁化之類就不要了。
@@ -104,6 +110,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/swjz.xml
 http://www.byscrj.com/jmm/shuowen/dcd1.js
 retrieve date: 2015/08/20
 各項目依次爲：字號，卷第，部首，北師篆，華師篆，字頭，反切音，解說，拼音，注音。
+在線查閱：http://www.byscrj.com/jmm/shuowen/find_all.html
 
 #### 開放康煕字典
 https://github.com/ksanaforge/kangxizidian/
