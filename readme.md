@@ -52,6 +52,13 @@ retrieve date: 2015/08/20
 各項依次爲字頭，詁林正編，詁林補遺，詁林補編，詁林後編外編，通訓定聲，祁嶲藻繫傳，述古堂繫傳，段注，連筠簃義證，崇文義證，句讀，宋本，藤花榭，汲古閣，孫星衍，陳昌治。
 在線查閱：http://www.byscrj.com/jmm/shuowen/find.html
 
+#### 說文解字詁林+古文字詁林+說文通訓定聲
+http://bbs.xueleku.com/forum.php?mod=viewthread&tid=399185
+從 Excel 轉成了 txt 。各項依次爲部首、字頭、說文解字詁林正編頁碼、說文解字詁林補遺頁碼、說文解字詁林補編頁碼、古文字詁林冊數、古文字詁林頁碼、說文通訓定聲頁碼。
+說文解字詁林頁碼依中華書局 1988 版，雲南 2006 版頁碼可用此公式換算：(X-976)/4+244。本表不含無後編（說文逸字）文字及頁碼，補遺沒有的字也會被打上頁碼。
+古文字詁林第十一冊未錄入頁碼。
+說文通訓定聲頁碼依 1983 版武漢古籍版。
+
 #### 洪武正韻
 https://github.com/BYVoid/ytenx/blob/11dfc4bbfcb27857826efffc8463b0362af87b04/ytenx/tcenghyonhtsen/data/Dzih.txt
 保留字頭、頁碼、韻部、聲調、反切，流水號和拉丁化之類就不要了。
@@ -65,6 +72,11 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 「柵の形が微妙に違う」改作「⿰木𠕁」。
 1602.022 誤作「𣨂」，改爲「⿱𢀸廾」。
 1595.072 至 KX1595.082 順序錯誤，已修正。
+
+#### 經籍䉵詁
+http://www.byscrj.com/jmm/Classic/data-sorted.js
+轉成 utf-8 了。
+在線查閱： http://www.byscrj.com/jmm/Classic/search.html
 
 #### 大漢和辭典 字
 https://github.com/cjkvi/cjkvi-dict/blob/master/dkw2ucs.txt
@@ -96,13 +108,6 @@ retrieve date: 2015/06/30
 #### 漢語大字典+中文大辭典+故訓匯纂
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 提取其 data-sorted.js 。
-
-#### 說文解字詁林+古文字詁林+說文通訓定聲
-http://bbs.xueleku.com/forum.php?mod=viewthread&tid=399185
-從 Excel 轉成了 txt 。各項依次爲部首、字頭、說文解字詁林正編頁碼、說文解字詁林補遺頁碼、說文解字詁林補編頁碼、古文字詁林冊數、古文字詁林頁碼、說文通訓定聲頁碼。
-說文解字詁林頁碼依中華書局 1988 版，雲南 2006 版頁碼可用此公式換算：(X-976)/4+244。本表不含無後編（說文逸字）文字及頁碼，補遺沒有的字也會被打上頁碼。
-古文字詁林第十一冊未錄入頁碼。
-說文通訓定聲頁碼依 1983 版武漢古籍版。
 
 #### 異體字字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
