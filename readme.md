@@ -95,7 +95,14 @@ retrieve date: 2015/06/30
 
 #### 漢語大字典+中文大辭典+故訓匯纂
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
-漢語大字典+中文大辭典+故訓匯纂聯合，提取其 data-sorted.js 。
+提取其 data-sorted.js 。
+
+#### 說文解字詁林+古文字詁林+說文通訓定聲
+http://bbs.xueleku.com/forum.php?mod=viewthread&tid=399185
+從 Excel 轉成了 txt 。各項依次爲部首、字頭、說文解字詁林正編頁碼、說文解字詁林補遺頁碼、說文解字詁林補編頁碼、古文字詁林冊數、古文字詁林頁碼、說文通訓定聲頁碼。
+說文解字詁林頁碼依中華書局 1988 版，雲南 2006 版頁碼可用此公式換算：(X-976)/4+244。本表不含無後編（說文逸字）文字及頁碼，補遺沒有的字也會被打上頁碼。
+古文字詁林第十一冊未錄入頁碼。
+說文通訓定聲頁碼依 1983 版武漢古籍版。
 
 #### 異體字字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
