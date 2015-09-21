@@ -87,6 +87,10 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/dkw-word.txt
 原書「眾」的寫法，「亻」不蓋「人」。而且使用比較混亂，時而「衆」，時而「眾」。
 錯誤較多，比如「奉諱」和「奉義」之間有兩個詞，本表僅一。又如「丟招」誤作「丟昭」，屬於同音字誤錄。還有三千多字顯示爲「■」，改正是個大工程。
 
+#### 經傳釋詞札記
+http://pdawiki.com/forum/forum.php?mod=viewthread&tid=14155
+原爲 mdx ，現轉成 txt 。順序用編輯器隨便排了一下。
+
 #### 王力古漢語字典
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=730553
 原程序無法批量導出，用的格式也很詭異，所以用 AHK 逐筆提取成 txt ，提取時維持了原有的順序。之後用 Python 寫了個腳本來添加每一頁的字序，受限於源文件，錯誤很多。
