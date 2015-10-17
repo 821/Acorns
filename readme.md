@@ -174,6 +174,11 @@ http://bbs.unispim.com/forum.php?mod=viewthread&tid=31657
 #### 古漢語常用字字典
 也是百度上找來的，本來打包成 dz 了，現拆出並去掉 [trn][/trn] 符號（因爲沒什麼用）。
 
+#### CC-CEDICT
+http://cc-cedict.org/wiki/
+釋義非常簡短的中英辭典，與其說是 dictionary ，不如說是 thesaurus 。對於漢語爲母語的英語學習者來說，是一部英文用詞相當地道的中翻英辭典。
+另有 StarDict 格式版 http://simonwiles.net/files/cc-cedict/stardict-cc-cedict.tar.bz2 。
+
 ## 其他
 
 #### 漢大詞用字
