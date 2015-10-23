@@ -89,6 +89,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/dkw-word.txt
 
 #### 國語字典（趙元任等）
 http://pdawiki.com/forum/forum.php?mod=viewthread&tid=14227
+retrieve date: 2015/10/07
 拆包、用 EmEditor 按頁碼重排。
 
 #### 經傳釋詞札記
