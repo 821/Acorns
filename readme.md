@@ -87,6 +87,10 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/dkw-word.txt
 原書「眾」的寫法，「亻」不蓋「人」。而且使用比較混亂，時而「衆」，時而「眾」。
 錯誤較多，比如「奉諱」和「奉義」之間有兩個詞，本表僅一。又如「丟招」誤作「丟昭」，屬於同音字誤錄。還有三千多字顯示爲「■」，改正是個大工程。
 
+#### 國語字典（趙元任等）
+http://pdawiki.com/forum/forum.php?mod=viewthread&tid=14227
+拆包、用 EmEditor 按頁碼重排。
+
 #### 經傳釋詞札記
 http://pdawiki.com/forum/forum.php?mod=viewthread&tid=14155
 retrive date: 2015/09/21
