@@ -195,3 +195,6 @@ http://cc-cedict.org/wiki/
 
 #### 廣韻全字表
 http://www.pkucn.com/viewthread.php?tid=175767
+
+#### txt2dsl
+顧名思義，製作 dsl 的懶人腳本。
