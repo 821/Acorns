@@ -75,7 +75,7 @@ https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
 
 #### 經籍䉵詁
 http://www.byscrj.com/jmm/Classic/data-sorted.js
-轉成 utf-8 了。
+轉成 utf-8 ，做了一些細微的修正，比如構字法、批量遺漏的字符。
 在線查閱： http://www.byscrj.com/jmm/Classic/search.html
 
 #### 大漢和辭典 字
@@ -197,4 +197,4 @@ http://cc-cedict.org/wiki/
 http://www.pkucn.com/viewthread.php?tid=175767
 
 #### txt2dsl
-顧名思義，製作 dsl 的懶人腳本。
+顧名思義，製作 dsl 的懶人腳本，衹要根據情況塡寫一下數據就行了。
