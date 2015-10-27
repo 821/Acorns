@@ -147,6 +147,7 @@ MDict 不支持 tif ，所以帶原圖的辭書都比較肥。原版 pdg 轉 tif
 
 #### 古文字通假字典
 http://www.mebag.com/index/tongjia/List.asp
+retrieve date: 2015/10/28
 Python 抓取所得，有不少缺字。
 
 #### 四庫大辭典
