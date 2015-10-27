@@ -142,8 +142,8 @@ https://github.com/kcwu/moedict-variants/blob/master/list.txt
 #### 現代漢語詞典 第六版
 http://pdawiki.com/forum/forum.php?mod=viewthread&tid=13755
 retrieve date: 2015/09/01
-從 mdx 轉出來了，做了簡單的順序修正。收詞量不大，有心情再做 dsl 。
-MDict 不支持 tif ，所以帶原圖的辭書都比較肥。原版 pdg 轉 tif 體積衹有 212MB ，比帖中的 449MB 實惠得多，還順便糾斜裁邊了，所以還是 dsl 好。
+從 mdx 轉出來了，用 EmEditor 自動排序了。
+收詞量不大，有心情再做 dsl 。
 
 #### 古文字通假字典
 http://www.mebag.com/index/tongjia/List.asp
