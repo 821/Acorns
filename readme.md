@@ -142,17 +142,22 @@ https://github.com/kcwu/moedict-variants/blob/master/list.txt
 #### 現代漢語詞典 第六版
 http://pdawiki.com/forum/forum.php?mod=viewthread&tid=13755
 retrieve date: 2015/09/01
-從 mdx 轉出來了，用 EmEditor 自動排序了。
+從 mdx 轉出來，用 EmEditor 自動排序。
 收詞量不大，有心情再做 dsl 。
 
 #### 古文字通假字典
 http://www.mebag.com/index/tongjia/List.asp
 retrieve date: 2015/10/28
-Python 抓取所得，有不少缺字。
+Python 抓取所得，有不少缺字。點號後面是索引上的頁碼。
+
+#### 字源
+http://www.mebag.com/index/tongjia/List.asp
+retrieve date: 2015/10/28
+Python 抓取所得，有不少缺字。點號後面是索引上的頁碼。
 
 #### 四庫大辭典
 在百度雲網盤上看到的一個 mdx ，基於李學勤版四庫大辭典。
-源文件錯誤非常多，隨手修正了約一百條，然後用 EmEditor 按頁碼排了順序——當然，和原書裏每一頁的順序有所不同。
+源文件錯誤非常多，隨手修正約一百條，然後用 EmEditor 按頁碼排了順序——當然，和原書裏每一頁的順序有所不同。
 
 #### 中國哲學辭典（韋政通， 2009 ）
 從超星的目錄裏提取的，順便添加了詞序。
