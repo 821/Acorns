@@ -148,12 +148,14 @@ retrieve date: 2015/09/01
 #### 古文字通假字典
 http://www.mebag.com/index/tongjia/List.asp
 retrieve date: 2015/10/28
-Python 抓取所得，有不少缺字。點號後面是索引上的頁碼。
+Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+有不少缺字和頁碼錯誤。
 
 #### 字源
 http://www.mebag.com/index/tongjia/List.asp
 retrieve date: 2015/10/28
-Python 抓取所得，有不少缺字。點號後面是索引上的頁碼。
+Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+有不少缺字和頁碼錯誤。
 
 #### 四庫大辭典
 在百度雲網盤上看到的一個 mdx ，基於李學勤版四庫大辭典。
