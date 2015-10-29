@@ -172,6 +172,10 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=954856
 #### 中華道教大辭典
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=954856
 
+#### 本草綱目（劉衡如、劉山永校， 1998 ）
+提取自 ssid: 10444286 的 pdg 所附 BookContents.dat 。補上了 GBK 編碼不兼容的字。
+此書爲二校版，三校版也已出版。
+
 ## 全文
 
 #### 說文解字注
