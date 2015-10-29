@@ -215,3 +215,6 @@ http://www.pkucn.com/viewthread.php?tid=175767
 
 #### txt2dsl
 顧名思義，製作 dsl 的懶人腳本，衹要根據情況塡寫一下數據就行了。
+
+#### addseq
+顧名思義，給有頁碼無頁內詞序的索引添加詞序。
