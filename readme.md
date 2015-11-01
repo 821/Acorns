@@ -157,14 +157,19 @@ retrieve date: 2015/10/28
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 有不少缺字和頁碼錯誤。
 
-#### 中國隸書大字典
+#### 中國隸書大字典（李志賢等）
 http://www.mebag.com/index/shodoo/list.asp
 retrieve date: 2015/10/31
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 
-#### 中國正書大字典
+#### 中國正書大字典（李志賢等）
 http://www.mebag.com/index/shodoo/list.asp
 retrieve date: 2015/11/01
+Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+
+#### 中國行書大字典（李志賢等）
+http://www.mebag.com/index/shodoo/list.asp
+retrieve date: 2015/11/02
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 
 ### 四庫大辭典
