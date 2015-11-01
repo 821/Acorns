@@ -162,6 +162,11 @@ http://www.mebag.com/index/shodoo/list.asp
 retrieve date: 2015/10/31
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 
+#### 中國正書大字典
+http://www.mebag.com/index/shodoo/list.asp
+retrieve date: 2015/11/01
+Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+
 ### 四庫大辭典
 在百度雲網盤上看到的一個 mdx ，基於李學勤版四庫大辭典。
 源文件錯誤非常多，隨手修正約一百條，然後用 EmEditor 按頁碼排了順序——當然，和原書裏每一頁的順序有所不同。
