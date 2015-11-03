@@ -192,6 +192,16 @@ http://www.mebag.com/index/shodoo/list.asp
 retrieve date: 2015/11/03
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 
+### 敦煌俗字譜
+http://www.mebag.com/index/shodoo/list.asp
+retrieve date: 2015/11/03
+Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+
+### 金石大字典
+http://www.mebag.com/index/shodoo/list.asp
+retrieve date: 2015/11/03
+Python 抓取所得，用 Excel 自動排序。點號後面是索引上的頁碼。
+
 ### 傳抄古文字編
 http://www.mebag.com/index/list.asp
 retrieve date: 2015/11/03
