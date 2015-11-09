@@ -126,6 +126,11 @@ retrieve date: 2015/06/30
 http://bbs.xueleku.com/forum.php?mod=viewthread&tid=369962
 提取其 data-sorted.js 。
 
+### 現代漢語詞典 第六版
+http://pdawiki.com/forum/forum.php?mod=viewthread&tid=13755
+retrieve date: 2015/09/01
+從 mdx 轉出來，用 EmEditor 自動排序。
+
 ### 異體字字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/twedu-dict.txt
 這個文件可以檢索到五萬多個字，收錄時去掉了 twedu- 這個無用前綴。
@@ -138,12 +143,6 @@ https://github.com/kcwu/moedict-variants/blob/master/list.txt
 跟日本人做的文件相比，多了圖片地址。然而異體字字典原本是 Big5 的，向 Unicode 的推進過程不完善，很多 Unicode 已經有的字在日本版有了，但本文件跟官網一樣，衹能直接檢索到兩萬字。異體字字典官網對 Unicode 也是有意識的，很多圖片的地址實際上就是 Unicode 編碼。
 有些不連續的號，比如 A00270-018 和 A00270-022 ，並不是顯示沒有這個字的，而是衹有字頭沒有釋義。兩個文件都沒有收錄。
 此處順便吐槽一下異體字字典，修到第五版還不能直接檢索，第六版可以檢索了，又無聊把圖片的 link 全部改掉。比如原本一個字的字號是 B00001 ，那麼他的正字通的圖片名稱就是 B0000137.jpg ，其中 37 是第 37 部辭書的意思。現在是把所有的字的圖片編在一起，比如這張圖片之前有 12345 張圖片，那他就是 12346.png 。
-
-### 現代漢語詞典 第六版
-http://pdawiki.com/forum/forum.php?mod=viewthread&tid=13755
-retrieve date: 2015/09/01
-從 mdx 轉出來，用 EmEditor 自動排序。
-收詞量不大，有心情再做 dsl 。
 
 ### 古文字通假字典
 http://www.mebag.com/index/tongjia/List.asp
@@ -226,7 +225,7 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=954856
 
 ### 本草綱目（劉衡如、劉山永校， 1998 ）
 提取自 ssid: 10444286 的 pdg 所附 BookContents.dat 。補上了 GBK 編碼不兼容的字，拆分了有又名的詞條。
-此書爲二校版，三校版也已出版。
+此書爲二校版，三校版已出，頁碼差距較大。
 
 ## 全文
 
