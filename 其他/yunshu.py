@@ -1,10 +1,12 @@
 import requests,multiprocessing,os
+from retrying import retry
 
 link = 'http://xiaoxue.iis.sinica.edu.tw/yunshu/PageResult/PageResult'
-total = 60069
+total = 80000
 start = 1
 worker = 4
 
+@retry(stop_max_attempt_number=20)
 def main(order):
 	FileExist = os.path.isfile(str(order) + '.html')
 	if FileExist == False:
