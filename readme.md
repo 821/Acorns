@@ -85,7 +85,7 @@ Unicode 碼轉成字了。
 ### 大漢和辭典 詞
 https://github.com/cjkvi/cjkvi-dict/blob/master/dkw-word.txt
 原書「眾」的寫法，「亻」不蓋「人」。而且使用比較混亂，時而「衆」，時而「眾」。
-錯誤較多，比如「奉諱」和「奉義」之間有兩個詞，本表僅一。又如「丟招」誤作「丟昭」，屬於同音字誤錄。還有三千多字顯示爲「■」，改正是個大工程。
+錯誤較多，比如「奉諱」和「奉義」之間有兩個詞，本表僅一。又如「丟招」誤作「丟昭」，屬於同音字誤錄。再如「𡽖」誤作「嶰」，屬於形近字誤錄。還有三千多字顯示爲「■」，改正是個大工程。
 
 ### 國語字典（趙元任等）
 http://pdawiki.com/forum/forum.php?mod=viewthread&tid=14227
@@ -255,6 +255,12 @@ http://bbs.unispim.com/forum.php?mod=viewthread&tid=31657
 http://cc-cedict.org/wiki/
 釋義非常簡短的中英辭典，與其說是 dictionary ，不如說是 thesaurus 。對於漢語爲母語的英語學習者來說，是一部英文用詞相當地道的中翻英辭典。
 另有 StarDict 格式版 http://simonwiles.net/files/cc-cedict/stardict-cc-cedict.tar.bz2 。
+
+## Unihan
+整理自 [Unihan](http://www.unicode.org/Public/UNIDATA/) 的數據。
+
+### 廣韻
+Unihan_DictionaryIndices.txt 裏提取 kSBGY 的行，也就是宋本廣韻頁碼及頁內位置。
 
 ## 其他
 
