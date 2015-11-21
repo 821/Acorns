@@ -214,7 +214,7 @@ retrieve date: 2015/11/03
 Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
 
 ## Unihan
-整理自 [Unihan](http://www.unicode.org/Public/UNIDATA/) 的數據。
+整理自 [Unihan](http://www.unicode.org/Public/UNIDATA/) 的數據。原數據普遍是給 Unicode 碼，現在把碼轉好，存成 utf-8 格式。
 官網對數據有[說明](http://www.unicode.org/reports/tr38/)。
 
 #### 廣韻
