@@ -1,0 +1,3226 @@
+㐀	丘
+㐅	五kMatthews
+㐫	凶
+㐮	襄
+㐯	庸
+㐱	鬒kMatthews
+㐴	攀
+㐵	儒
+㑁	𠭴
+㑄	侮kMatthews
+㑌	尩kMatthews
+㑝	𢙱kMeyerWempe
+㒇	儛kMatthews
+㒋	廝kMatthews 厮kMatthews
+㒚	穩kFenn,kMatthews
+㒞	儶kMatthews
+㒰	全kMatthews
+㒲	財kMatthews
+㒷	興kLau,kMatthews
+㓁	网kMatthews
+㓮	彫kLau,kMatthews 雕kLau,kMatthews
+㓷	劓kMatthews
+㓸	斲kMatthews
+㔍	䥷kMatthews
+㔱	斞kMatthews
+㔾	卩kMatthews
+㕑	𢊍kLau 厨kLau
+㕚	爪kMatthews 爫kMatthews
+㕞	刷kMatthews
+㗖	啖kMatthews 噉kMatthews 啗kMatthews
+㗳	嗒kLau
+㘅	銜kMeyerWempe 啣kFenn
+㙮	塔kMeyerWempe
+㙳	轗kMeyerWempe
+㚝	奞kMatthews 奎kMatthews
+㚣	姣kMatthews
+㛛	娠kMatthews
+㝃	娩kMeyerWempe
+㝛	宿kMatthews
+㝵	礙kMatthews 碍kMatthews
+㞐	居kMatthews
+㟗	邠kMatthews 豳kMatthews
+㠊	嶇kMatthews,kMeyerWempe
+㠯	以kFenn
+㠶	帆kMatthews
+㡘	𢅏
+㡿	斥kMatthews
+㣶	邅kMeyerWempe
+㣺	心kMatthews
+㣼	忍kMatthews
+㤒	笨kFenn
+㤵	慈kFenn
+㥃	悶kMatthews,kMeyerWempe 懣kMatthews
+㥵	慁kMatthews
+㦧	憯kMeyerWempe
+㧃	收kMatthews
+㧖	扼kMatthews 搤kMatthews
+㧜	擸kMatthews
+㨉	抿kMatthews
+㨨	㩅kMeyerWempe
+㨼	撂kFenn
+㩁	搉kMatthews
+㩅	㨨kMeyerWempe
+㩜	攬kMeyerWempe 擥kMeyerWempe
+㩹	𢶣kMatthews
+㪅	更kMatthews
+㪯	舉
+㫃	偃kMatthews
+㫎	幑kHanYu:T 𣄈kHanYu:T
+㫚	昒kHanYu
+㬅	曼kMatthews
+㬱	朁kMatthews
+㬹	踭kMeyerWempe
+㭨	椰kLau,kMatthews,kMeyerWempe
+㮣	槩kMatthews 槪kMatthews
+㯃	漆kMatthews 桼kMatthews
+㯭	樐kMatthews 櫓kMatthews
+㯶	棕kFenn
+㯽	檳kMatthews,kMeyerWempe
+㰍	櫳kMatthews,kMeyerWempe
+㱿	殼kMatthews 壳kMatthews
+㲒	勽kMathews,kMeyerWempe
+㲓	毧kMatthews
+㳄	涎kMatthews
+㴑	溯kMatthews
+㴔	潝kMatthews
+㵒	沸kFenn
+㷉	熨kMatthews
+㷠	燐kMatthews 粦kMatthews
+㷻	煳kMatthews
+㽣	域kMatthews
+㽽	痼kMeyerWempe
+㾙	脪kMatthews
+㿟	皦kFenn 皎kMatthews
+㿷	糙kMatthews,kMeyerWempe
+䀋	鹽kLau
+䀠	瞿kMatthews
+䀢	瞬kMatthews
+䀹	睫kMatthews
+䂀	𥋟
+䂫	夯kFenn
+䃉	珉kMatthews
+䃘	硜kMatthews
+䄃	殃kMatthews
+䄍	蜡kMeyerWempe
+䄯	𢆞kFenn
+䄺	稊kMeyerWempe
+䆋	秋kMatthews
+䆔	竉kMeyerWempe
+䆫	窓kMeyerWempe 窗kMeyerWempe
+䈇	罩kLau,kMatthews
+䉵	饌kMatthews 籑kMatthews
+䊜	糰kFenn
+䋲	繩kMeyerWempe
+䌥	縯kFenn
+䌫	纜kMeyerWempe
+䏕	飪kMatthews
+䐰	饈kMatthews
+䒒	苕kMatthews
+䔛	檾kFenn
+䕌	稚kMatthews
+䖈	虐kHanYu
+䖍	虔kMatthews
+䖏	処kFenn 處kMatthews
+䖟	蝱kMatthews
+䖣	蚤kLau,kMatthews
+䖵	蜫kMatthews
+䘑	脉kMeyerWempe
+䘚	卒kLau,kMatthews
+䘺	綻kFenn
+䙝	褻kLau,kMatthews 褺kMatthews
+䚎	𥅾kMeyerWempe
+䛡	話kMatthews
+䛻	誘kMatthews
+䛼	譭kMatthews,kMeyerWempe
+䜊	嘈kMatthews,kMeyerWempe
+䜶	豇kMatthews
+䝋	豵kMatthews,kMeyerWempe
+䝜	狻kMeyerWempe
+䝤	獠kMeyerWempe
+䞓	赬kMeyerWempe
+䠱	躅kMatthews
+䢙	敗kMatthews
+䣩	醇kLau,kMatthews,kMeyerWempe
+䤍	𨢥
+䥀	捵kFenn
+䥨	鑢kMatthews,kMeyerWempe
+䥷	㔍kMatthews
+䦓	覘kMeyerWempe 𦕒kMeyerWempe
+䨘	霰kMatthews,kMeyerWempe
+䩞	韂kMatthews
+䪊	龓kMatthews
+䪿	囟kMatthews
+䬒	颼kMatthews,kMeyerWempe
+䬡	翥kMatthews,kMeyerWempe
+䭾	馱kFenn
+䯌	尻kMatthews
+䯻	髻kLau
+䰗	鬮kFenn
+䱇	鱓kMatthews
+䱷	漁kMatthews
+䱽	鯧kLau,kMatthews,kMeyerWempe
+䴹	餜kMatthews
+䵑	䵒kMatthews
+䵒	䵑kMatthews
+䶏	涕kMatthews
+一	弌kLau,kMatthews,kMeyerWempe 壹kLau,kMatthews,kMeyerWempe
+七	柒kLau,kMatthews,kMeyerWempe
+万	卍kFenn 萬kLau,kMatthews,kMeyerWempe
+三	叁kLau,kMatthews,kMeyerWempe
+与	與kMatthews,kMeyerWempe
+丐	匃kMatthews
+丘	㐀 坵kMatthews
+东	東kFenn
+丟	丢kHKGlyph,kMatthews
+両	兩kMatthews 两kFenn
+丢	丟kHKGlyph,kMatthews
+两	両kFenn 兩kLau,kMatthews,kMeyerWempe
+並	幷kMatthews,kMeyerWempe 并kMatthews,kMeyerWempe 竝kMatthews
+个	個kLau,kMatthews 箇kLau,kMatthews,kMeyerWempe
+乃	迺kMatthews 廼kMatthews
+么	幺kMatthews
+义	義kFenn
+乔	喬kFenn
+乚	隱kMatthews
+九	玖kLau,kMatthews,kMeyerWempe
+乱	亂kMatthews,kMeyerWempe
+亂	乱kMatthews,kMeyerWempe
+予	余kFenn
+争	爭kMatthews
+亊	事kFenn
+事	亊kFenn
+二	弍kMatthews,kMeyerWempe 貳kMeyerWempe
+于	扵kLau 於kLau
+亏	於kMatthews 扵kMatthews
+五	㐅kMatthews
+亗	岁kFenn 歲kMatthews 𡻕kFenn
+亝	齊kMatthews
+亡	兦kLau,kMatthews 亾kFenn
+亲	榛kMatthews
+人	亻kMatthews
+亻	人kMatthews
+亼	集kLau,kMatthews
+亾	亡kFenn
+仇	讎kMeyerWempe 讐kLau,kMeyerWempe
+从	從kMatthews
+他	她kMatthews 牠kMatthews
+仙	僊kLau,kMatthews
+仝	同kLau,kMatthews,kMeyerWempe
+仟	千kMeyerWempe 阡kFenn
+以	㠯kFenn
+任	仼kHKGlyph
+仼	任kHKGlyph
+仾	低kMatthews
+仿	倣kMatthews
+伀	彸kMatthews
+伃	妤kMatthews,kMeyerWempe
+会	會kMatthews,kMeyerWempe
+伭	玄kMatthews
+伱	你kMatthews
+伷	冑kFenn 胄kMatthews
+佇	竚kMatthews,kMeyerWempe
+佋	紹kMatthews
+低	仾kMatthews
+佑	祐kFenn
+体	體kMatthews 軆kFenn
+佗	它kMatthews
+余	予kFenn
+你	伱kMatthews
+佰	百kMatthews,kMeyerWempe
+併	𠊧kFenn
+侁	駪kMatthews,kMeyerWempe 詵kMeyerWempe
+侂	託kMatthews
+侅	賅kMatthews,kMeyerWempe
+來	来kMeyerWempe
+侎	敉kMatthews
+侖	崙kFenn
+侚	殉kMatthews 狥kMatthews
+侣	侶kMatthews
+侮	㑄kMatthews
+侶	侣kMatthews
+俈	嚳kMatthews
+俓	徑kMatthews,kMeyerWempe
+俞	兪kMatthews,kMeyerWempe
+俟	竢kMatthews,kMeyerWempe
+俯	頫kMatthews
+俻	備kMatthews,kMeyerWempe
+倈	徠kLau,kMatthews 勑kLau
+個	个kLau,kMatthews 箇kLau,kMatthews
+倏	倐kFenn
+倐	倏kFenn
+倖	幸kFenn
+倘	儻kLau,kMatthews,kMeyerWempe
+倣	仿kMatthews
+値	值kLau,kMatthews
+值	値kLau,kMatthews
+偁	穪kMatthews 稱kMatthews
+偃	㫃kMatthews
+偊	踽kMatthews,kMeyerWempe
+偐	贋kMatthews 贗kMatthews
+偒	蕩
+健	徤kFenn
+偪	逼kMatthews,kMeyerWempe
+偷	偸kLau
+偸	偷kLau
+偺	昝kMatthews 咱kFenn
+傁	叟kMatthews,kMeyerWempe 叜kMatthews
+傌	罵kMatthews
+傏	搪kMatthews
+傑	杰kMatthews
+傘	繖kMatthews
+備	俻kMatthews,kMeyerWempe
+傜	徭kMatthews
+傻	儍kFenn
+傽	慞kMeyerWempe
+僊	仙kLau,kMatthews
+僱	雇kLau,kMeyerWempe
+儆	警kMatthews,kMeyerWempe
+儍	傻
+儒	㐵
+儓	檯kLau 枱kLau
+儛	㒇kMatthews
+儭	襯kMatthews
+儶	㒞kMatthews
+儻	倘kLau,kMatthews,kMeyerWempe
+兌	兑kMatthews
+兎	兔kLau,kMatthews,kMeyerWempe
+兑	兌kMatthews
+兔	兎kLau,kMatthews,kMeyerWempe
+兦	亡kLau,kMatthews
+全	㒰kMatthews
+兩	両kMatthews 两kLau,kMatthews,kMeyerWempe
+兪	俞kMatthews,kMeyerWempe
+八	捌kLau,kMeyerWempe
+兮	𠔃kFenn
+兹	玆kMatthews 茲kMatthews
+冂	坰kMatthews 冋kMatthews
+冄	冉kMatthews
+冉	冄kMatthews
+冋	冂kMatthews 坰kMatthews,kMeyerWempe
+冑	伷kFenn 胄kFenn
+冒	冒kHKGlyph
+冗	宂kMatthews
+冤	寃kLau,kMatthews,kMeyerWempe
+冩	寫kLau,kMatthews
+冪	羃kMatthews 鼏kMeyerWempe
+冫	氷kMatthews 冰kMatthews
+冰	冫kMatthews 氷kLau,kMatthews
+冱	沍kMatthews,kMeyerWempe
+冲	沖kLau,kMatthews,kMeyerWempe
+决	決kLau,kMatthews,kMeyerWempe
+况	況kMatthews,kMeyerWempe
+凂	浼kMatthews
+凄	淒kMatthews,kMeyerWempe
+准	準kMeyerWempe
+凈	淨kLau,kMatthews
+凉	涼kLau,kMatthews,kMeyerWempe
+减	減kLau,kMatthews,kMeyerWempe
+凑	湊kMatthews,kMeyerWempe
+凛	懔kFenn
+凡	凢kMatthews,kMeyerWempe 凣kMatthews
+凢	凡kMatthews,kMeyerWempe
+凣	凡kMatthews
+処	䖏kFenn 處kMatthews
+凳	櫈kHKGlyph,kLau,kMatthews,kMeyerWempe
+凴	憑kLau,kMatthews
+凶	㐫
+凹	𠕄kLau
+函	凾kMatthews 圅kMatthews
+凾	函kMatthews 圅kMatthews
+刀	刂kMatthews
+刂	刀kMatthews
+刃	刄kFenn
+刄	刃kFenn
+刅	創kMatthews
+刊	刋kMatthews
+刋	刊kMatthews
+刓	园kMatthews
+刘	劉kLau
+删	刪kMatthews
+刦	刧kFenn 劫kLau,kMeyerWempe
+刧	刦kFenn 劫kLau,kMatthews,kMeyerWempe
+刨	鉋kMatthews
+利	𥝢kLau
+刪	删kMatthews
+刱	創kHanYu:TZ,kMeyerWempe
+刴	剁kMeyerWempe
+刷	㕞kMatthews
+刼	劫kMatthews
+剁	刴kMeyerWempe
+剃	鬀kLau,kMatthews,kMeyerWempe
+剋	尅kHKGlyph,kMatthews
+剗	剷kLau,kMatthews
+剦	閹kLau,kMatthews,kMeyerWempe
+剩	賸kLau,kMatthews
+剪	翦kLau,kMatthews,kMeyerWempe
+剳	劄kMeyerWempe
+創	刅kMatthews 刱kMeyerWempe,kHanYu 戧kMatthews
+剷	剗kLau,kMatthews
+剿	𠞰kFenn
+劄	剳kMeyerWempe
+劈	擗kMeyerWempe
+劉	刘kLau
+劍	劒kMatthews
+劎	劔kFenn
+劒	劍kMatthews
+劓	㓷kMatthews
+劔	劎kFenn
+劝	勸kLau,kMatthews,kMeyerWempe
+办	辦kFenn
+劫	刦kLau,kMeyerWempe 刧kLau,kMatthews,kMeyerWempe 刼kMatthews
+効	效kMeyerWempe
+勄	敏kMatthews,kMeyerWempe
+勅	勑kMatthews 敕kMatthews
+勑	倈kLau 勅kMatthews 敕kMatthews 徠kLau
+勖	勗kMatthews,kMeyerWempe
+勗	勖kMatthews,kMeyerWempe
+勛	勳kHKGlyph,kLau,kMatthews,kMeyerWempe
+勰	協kFenn 恊kMatthews
+勳	勛kHKGlyph,kLau,kMatthews,kMeyerWempe
+勸	劝kLau,kMatthews,kMeyerWempe
+勹	包kMatthews
+勻	匀kHKGlyph,kMatthews
+勽	㲒kMathews,kMeyerWempe 菢kMatthews
+匀	勻kHKGlyph,kMatthews
+匃	丐kMatthews 匄kMatthews
+匄	匃kMatthews
+包	勹kMatthews
+匆	悤kFenn 怱kHKGlyph,kLau,kMatthews
+匈	胸kLau,kMatthews,kMeyerWempe 胷kLau,kMatthews
+匊	掬kMatthews,kMeyerWempe
+匋	陶kLau,kMatthews
+匏	瓟kMatthews,kMeyerWempe
+匘	腦kMatthews
+匙	鍉kMatthews
+匝	帀kMatthews 迊kMatthews
+匧	篋kMatthews
+匯	滙kLau,kMatthews,kMeyerWempe
+匱	樻kMeyerWempe 鐀kMatthews 櫃kLau,kMatthews,kMeyerWempe 饋kLau
+匳	奩kFenn
+匵	櫝kMatthews,kMeyerWempe
+匹	疋kMeyerWempe
+医	醫kMatthews
+千	仟kMeyerWempe
+卄	廿kMatthews
+卉	芔kMatthews
+卌	𠦌kHanYu
+卍	万kFenn 卐 萬kFenn
+卐	卍
+卒	䘚kLau,kMatthews
+協	勰kFenn 旪kMatthews
+单	單kMatthews,kMeyerWempe
+博	愽kMatthews
+卧	臥kHKGlyph
+卩	㔾kMatthews
+卬	卭kMatthews
+卭	卬kMatthews
+即	卽kLau,kMatthews
+却	卻kLau,kMatthews,kMeyerWempe
+卹	恤kMatthews,kMeyerWempe
+卻	却kLau,kMatthews,kMeyerWempe
+卽	即kLau,kMatthews
+厄	戹kMatthews
+历	厲kFenn
+厎	砥kMatthews
+厓	崖kMatthews
+厖	庬kMeyerWempe
+厘	釐kLau,kMatthews,kMeyerWempe
+厠	廁kLau,kMatthews,kMeyerWempe
+厤	曆kLau,kMatthews
+厦	廈kLau,kMatthews
+厨	廚kMatthews,kMeyerWempe
+厩	廐kMatthews
+厪	廑kMatthews
+厮	㒋kMatthews 廝kMatthews
+厰	廠kLau,kMatthews
+厲	历kFenn
+厶	某kLau
+厷	肱kMatthews,kMeyerWempe
+厹	叴kMeyerWempe
+叁	三kLau,kMatthews,kMeyerWempe
+參	叅kMatthews
+叅	參kMatthews
+双	雙kMatthews
+収	收kLau,kMatthews,kMeyerWempe
+叔	尗kMatthews
+变	變kMatthews,kMeyerWempe
+叙	敍kFenn 敘kHKGlyph,kLau,kMatthews
+叜	傁kMatthews 叟kMatthews
+叟	傁kMatthews,kMeyerWempe 叜kMatthews
+叠	曡kMatthews 疊kMatthews,kMeyerWempe
+叡	睿kMatthews,kMeyerWempe
+叢	樷kFenn
+叨	饕kMeyerWempe
+只	子kLau
+叫	呌kLau,kMatthews,kMeyerWempe
+台	臺kHKGlyph,kLau
+叴	厹kMeyerWempe
+叵	尀kLau,kMatthews
+号	號kLau,kMatthews
+吃	喫kLau,kMatthews
+吊	弔kLau,kMatthews,kMeyerWempe
+同	仝kLau,kMatthews,kMeyerWempe
+吒	咤kMatthews
+吚	咿kMatthews,kMeyerWempe
+吝	恡kMatthews 悋kMatthews
+吞	呑kMatthews
+吟	唫kFenn
+吣	唚kMatthews
+吨	啍kMeyerWempe
+听	聽kLau,kMatthews
+吲	哂kMatthews,kMeyerWempe
+吳	呉kMatthews
+吶	訥kLau,kMatthews
+吸	噏kMatthews
+吹	龡kMatthews
+吻	呡kMatthews 肳kMatthews,kMeyerWempe
+吿	告kMatthews
+呆	獃kMatthews
+呉	吳kMatthews
+告	吿kMatthews
+呌	叫kLau,kMatthews,kMeyerWempe
+呑	吞kMatthews
+呠	歕kMatthews 噴kMatthews
+呡	吻kMatthews
+周	週kLau
+呪	詋kFenn 咒kLau
+咀	觜kLau 嘴kLau
+咂	𠯗kFenn
+咊	和kLau,kMatthews 龢kLau,kMatthews
+和	咊kLau,kMatthews 龢kLau,kMatthews
+咏	詠kMatthews,kMeyerWempe
+咒	呪kLau
+咤	吒kMatthews
+咨	嗞kMatthews,kMeyerWempe 諮kMatthews,kMeyerWempe
+咩	哶kFenn
+咬	齩kLau,kMatthews
+咱	偺kFenn
+咲	笑kFenn
+咳	欬kMatthews
+咷	啕kMatthews
+咽	嚥kMatthews
+咿	吚kMatthews,kMeyerWempe
+哂	吲kMatthews,kMeyerWempe
+响	響kMatthews
+哦	誐kMeyerWempe
+哲	喆kLau 悊kMatthews
+哴	喨kMatthews
+哶	咩kFenn
+唁	喭kLau,kMatthews,kMeyerWempe
+唇	脣kHKGlyph,kLau,kMatthews,kMeyerWempe
+唉	欸kFenn
+唊	硤kMeyerWempe
+唚	吣kMatthews
+唫	吟kFenn
+唬	諕kMatthews 猇kMeyerWempe 虓kMeyerWempe
+唾	涶kMatthews
+啃	齦kFenn
+啍	吨kMeyerWempe
+啎	忤kMatthews
+啓	啟kLau,kMatthews,kMeyerWempe
+啕	咷kMatthews
+啖	㗖kMatthews 噉kMatthews 啗kMatthews,kMeyerWempe
+啗	㗖kMatthews 啖kMatthews,kMeyerWempe 噉kMatthews
+啜	欼kMatthews 諁kMeyerWempe 歠kMatthews
+啞	瘂kFenn
+啟	啓kLau,kMatthews,kMeyerWempe
+啣	㘅kFenn
+啼	嗁kLau,kMatthews
+喂	餧kFenn
+喃	諵kLau,kMatthews,kMeyerWempe
+喆	哲kLau
+喐	郁kMeyerWempe
+喒	昝kMatthews
+喜	憙
+喧	諠kMeyerWempe
+喨	哴kMatthews
+喫	吃kLau,kMatthews
+喬	乔kFenn
+喭	唁kLau,kMatthews,kMeyerWempe
+單	单kMatthews,kMeyerWempe
+喿	噪kMatthews
+嗁	啼kLau,kMatthews
+嗅	齅kMeyerWempe
+嗉	膆kMatthews
+嗒	㗳kLau
+嗞	咨kMatthews,kMeyerWempe 諮kMatthews,kMeyerWempe
+嗥	嚎kMatthews 嘷kMatthews
+嗽	瘶kMatthews
+嘆	歎kHKGlyph,kLau,kMatthews,kMeyerWempe
+嘈	䜊kMatthews,kMeyerWempe
+嘍	謱kMeyerWempe
+嘗	甞kMeyerWempe
+嘩	譁kLau,kMatthews,kMeyerWempe
+嘯	歗kMatthews
+嘱	囑kMatthews
+嘴	咀kLau 觜kLau
+嘷	嗥kMatthews
+嘿	默kFenn
+噂	譐kMeyerWempe
+噉	㗖kMatthews 啖kMatthews 啗kMatthews
+噏	吸kMatthews
+噐	器kMatthews
+噑	嚎kFenn
+噦	𧬨kMeyerWempe
+器	噐kMatthews
+噪	喿kMatthews 譟kLau
+噴	呠kMatthews 歕kMatthews
+嚎	嗥kMatthews 噑kFenn
+嚥	咽kMatthews
+嚬	顰kMatthews
+嚳	俈kMatthews
+嚵	饞kMatthews,kMeyerWempe
+嚹	𡅈kMeyerWempe
+囁	讘kMeyerWempe
+囑	嘱kMatthews
+囓	齧kLau,kMatthews
+囘	囬kFenn 回kLau,kMatthews,kMeyerWempe
+四	肆kLau
+回	囘kLau,kMatthews,kMeyerWempe 廻kMeyerWempe 囬kLau,kMatthews
+囟	䪿kMatthews 顖kMatthews
+囤	𥫱kLau
+囪	囱kHKGlyph
+囬	囘kFenn 回kLau,kMatthews
+园	刓kMatthews
+囮	𡈙kFenn
+囯	國kMeyerWempe
+困	睏kFenn
+囱	囪kHKGlyph
+圅	函kMatthews 凾kMatthews
+國	囯kMeyerWempe
+圕	圖kMatthews
+圖	圕kMatthews
+圝	圞kXHC1983
+圞	圝kXHC1983
+圢	町kMeyerWempe
+圣	聖kMatthews,kMeyerWempe
+圬	杇kMatthews,kMeyerWempe
+圭	珪kMatthews
+坆	墳kLau
+坋	坌kMatthews
+坌	坋kMatthews
+坎	埳kMatthews,kMeyerWempe
+坏	坯kMatthews
+坑	阬kMatthews
+坛	壇kMatthews
+坟	墳kMatthews
+坤	堃kLau,kMatthews,kMeyerWempe
+坭	泥kLau,kMatthews
+坯	坏kMatthews
+坰	冂kMatthews 冋kMatthews,kMeyerWempe
+坵	丘kMatthews
+垔	陻kMatthews,kMeyerWempe 堙kMatthews,kMeyerWempe
+垛	垜kFenn
+垜	垛kFenn
+垻	壩kMatthews,kMeyerWempe
+埇	甬kFenn
+埜	野kLau,kMatthews
+域	㽣kMatthews
+埳	坎kMatthews,kMeyerWempe
+埶	蓺kMatthews 秇kMatthews 藝kMatthews
+執	执kFenn
+埽	掃kMeyerWempe
+堃	坤kLau,kMatthews,kMeyerWempe
+堇	菫kMatthews
+堈	缸kLau,kMatthews 罁kLau,kMatthews
+堘	塍kMatthews,kMeyerWempe
+堙	垔kMatthews,kMeyerWempe 陻kMatthews,kMeyerWempe
+堤	隄kMeyerWempe
+堦	階kMatthews
+堭	隍kMatthews
+報	报kMeyerWempe
+場	塲kLau,kMatthews,kMeyerWempe
+堿	鹼kFenn 鹻kFenn
+塍	堘kMatthews,kMeyerWempe
+塐	塑kMatthews,kMeyerWempe
+塑	塐kMatthews,kMeyerWempe
+塔	㙮kMeyerWempe 墖kFenn
+塟	葬kMatthews
+塡	窴kMatthews
+塢	隝kLau 隖kMatthews 鄔kMeyerWempe
+塤	壎kMatthews,kMeyerWempe
+塩	鹽kMatthews
+塲	場kLau,kMatthews,kMeyerWempe
+塹	壍kMatthews,kMeyerWempe
+墈	磡kLau,kMatthews
+墖	塔kFenn
+墝	磽kMatthews
+墤	隤kMatthews,kMeyerWempe
+墫	樽kMatthews 罇kMatthews
+墰	罈kFenn 壜kMatthews
+墳	坆kLau 坟kMatthews
+墻	廧kLau,kMatthews 牆kLau,kMatthews,kMeyerWempe
+壇	坛kMatthews
+壍	塹kMatthews,kMeyerWempe
+壎	塤kMatthews,kMeyerWempe
+壐	璽kMatthews
+壜	墰kMatthews 罈kMatthews
+壩	垻kMatthews,kMeyerWempe
+声	聲kMatthews,kMeyerWempe
+壳	㱿kMatthews 殻kFenn
+壹	一kLau,kMatthews,kMeyerWempe 弌kLau,kMatthews,kMeyerWempe
+壻	婿kLau,kMatthews,kMeyerWempe
+壽	寿kFenn 夀kLau
+夀	壽kLau 寿kFenn
+夅	降kMatthews
+変	變kHanyu:T
+够	彀kFenn 夠kLau,kMatthews
+夠	够kLau,kMatthews 彀kFenn
+夢	梦kLau,kMeyerWempe 夣kMatthews
+夣	夢kMatthews
+天	靝kMatthews
+夯	䂫kFenn
+夸	誇kMeyerWempe
+奇	竒kLau,kMatthews
+奈	柰kLau,kMatthews,kMeyerWempe
+奎	㚝kMatthews 奞kMatthews
+奔	犇kMatthews
+奕	弈kFenn
+奞	㚝kMatthews 奎kMatthews
+奩	匳kFenn
+奶	妳kFenn 嬭kMatthews
+她	他kMatthews
+妊	姙kMatthews
+妒	妬kLau,kMatthews,kMeyerWempe
+妙	玅kLau,kMatthews
+妝	粧kLau,kMatthews,kMeyerWempe
+妤	伃kMatthews,kMeyerWempe
+妬	妒kLau,kMatthews,kMeyerWempe
+妳	奶kFenn 嬭kMatthews
+姆	姥kMatthews
+姉	姊kFenn
+姊	姉kFenn
+姍	姗kMatthews
+姗	姍kMatthews
+姙	妊kMatthews
+姣	㚣kMatthews
+姥	姆kMatthews
+姻	婣kMatthews
+娘	孃kLau
+娠	㛛kMatthews
+娩	㝃kMeyerWempe
+娬	嫵kMatthews
+婣	姻kMatthews
+婦	媍kFenn
+婬	淫kMeyerWempe
+婿	壻kLau,kMatthews,kMeyerWempe
+媆	嫩kCowles
+媍	婦kFenn
+媿	愧kMatthews,kMeyerWempe
+嫉	𡜱kFenn
+嫕	嫛kMatthews
+嫛	嫕kMatthews
+嫩	媆kCowles 𡞾kMeyerWempe
+嫫	嬷kMeyerWempe
+嫵	娬kMatthews
+嫺	嫻kHKGlyph,kMatthews
+嫻	嫺kHKGlyph,kMatthews
+嬌	撟kMatthews
+嬭	奶kMatthews 妳kMatthews
+嬰	孾kMatthews
+嬷	嫫kMeyerWempe
+孀	霜kLau
+孃	娘kLau
+子	只kLau
+孭	𧴯kMeyerWempe
+學	斈kLau,kMatthews,kMeyerWempe
+孼	孽kMatthews
+孽	孼kMatthews
+孾	嬰kMatthews
+宂	冗kMatthews
+它	佗kMatthews 牠kLau
+完	烟kLau 煙kLau
+宐	宜kMatthews
+宜	宐kMatthews
+宝	寳kFenn 寶kMeyerWempe
+宴	讌kLau,kMatthews
+宻	密kMatthews
+宼	寇kMatthews
+宿	㝛kMatthews
+寃	冤kLau,kMatthews,kMeyerWempe
+密	宻kMatthews
+寇	宼kMatthews
+寍	寧kMatthews
+寔	實kLau,kMatthews,kMeyerWempe
+寕	寜kFenn
+寗	甯kMatthews
+寘	置kMatthews
+寚	宝kMatthews 寳kMatthews
+寜	寕kFenn
+察	詧kMatthews,kMeyerWempe
+寠	窶kMatthews,kMeyerWempe,kPhonetic
+寡	關kLau
+實	寔kLau,kMatthews,kMeyerWempe
+寧	寍kMatthews 𡨴kMeyerWempe
+寨	砦kLau,kMatthews,kMeyerWempe
+寫	冩kLau,kMatthews
+寳	宝kFenn 寶kFenn
+寵	𠖥kFenn
+寶	宝kMeyerWempe 寳kFenn
+对	對kMatthews
+寿	壽kFenn 夀kFenn
+尀	叵kLau,kMatthews
+尃	旉kMatthews 敷kMatthews
+尅	剋kHKGlyph,kMatthews
+将	𤕭kFenn
+將	𤕭
+專	耑kLau,kMatthews,kMeyerWempe
+對	对kMatthews
+尒	尔kMatthews 爾kMatthews
+尔	尒kMatthews 爾kMatthews
+尗	叔kMatthews
+尢	尣kMatthews
+尣	尢kMatthews
+尨	狵kMatthews,kMeyerWempe
+尩	㑌kMatthews
+尰	腫kMatthews
+尲	尷kLau,kMatthews
+尷	尲kLau,kMatthews
+尸	屍kMeyerWempe
+尻	䯌kMatthews
+尽	盡kLau,kMatthews
+居	㞐kMatthews
+屆	届kMatthews
+屉	屜kLau,kMatthews
+届	屆kMatthews
+屍	尸kMeyerWempe
+屜	𡲕kFenn
+属	𡱆kFenn 屬kLau,kMatthews,kMeyerWempe
+屣	蹝kMatthews 躧kMatthews
+屬	属kLau,kMatthews,kMeyerWempe 𡱆kFenn
+岁	亗kFenn 歲kMatthews 𡻕kFenn
+岡	崗kHKGlyph,kLau,kMatthews
+岨	砠kMatthews,kMeyerWempe
+岩	巖kLau,kMatthews,kMeyerWempe
+峒	洞kMeyerWempe
+峨	峩kHKGlyph,kMatthews,kMeyerWempe
+峩	峨kHKGlyph,kMatthews,kMeyerWempe
+峭	陗kMatthews,kMeyerWempe
+峯	峰kHKGlyph
+峰	峯kHKGlyph
+崒	崪kMatthews
+崔	磪kMatthews,kMeyerWempe
+崖	厓kMatthews
+崗	岡kHKGlyph,kLau,kMatthews
+崘	崙kMeyerWempe
+崙	侖kFenn 崘kMeyerWempe
+崧	嵩kMatthews,kMeyerWempe
+崪	崒kMatthews
+嵗	歲
+嵠	谿kMeyerWempe
+嵩	崧kMatthews,kMeyerWempe
+嶃	磛kMeyerWempe
+嶄	巉kMatthews
+嶇	㠊kMatthews,kMeyerWempe
+嶎	蔚kMatthews
+嶝	磴kMatthews
+巉	嶄kMatthews
+巍	魏kMeyerWempe
+巖	岩kLau,kMatthews,kMeyerWempe
+巛	川kMatthews
+川	巛kMatthews
+巡	廵kLau,kMatthews,kMeyerWempe
+巤	鬣kMatthews,kMeyerWempe
+帀	匝kMatthews 迊kMatthews
+帆	㠶kMatthews
+帋	紙kMatthews
+帒	袋kLau,kMatthews
+帙	袠kMatthews
+帚	箒kMatthews,kMeyerWempe
+帬	裙kMatthews
+帮	幫kMatthews,kMeyerWempe 幇kFenn
+帳	賬kLau
+幂	鼏kMeyerWempe
+幇	帮kFenn 幫kMatthews,kMeyerWempe
+幕	幙kLau,kMatthews,kMeyerWempe
+幙	幕kLau,kMatthews,kMeyerWempe
+幞	襮kMeyerWempe
+幟	旘kMatthews
+幡	旛kFenn
+幫	帮kMatthews,kMeyerWempe 幇kMatthews,kMeyerWempe
+幵	开kFenn
+并	並kMatthews,kMeyerWempe 幷kMatthews,kMeyerWempe 竝kMatthews
+幷	並kMatthews,kMeyerWempe 并kMatthews,kMeyerWempe 竝kMatthews
+幸	倖kFenn
+幺	么kMatthews
+庄	莊kLau
+庅	麽kFenn 麼kMatthews
+床	牀kLau,kMatthews,kMeyerWempe
+庙	廟kLau,kMatthews,kMeyerWempe
+庬	厖kMeyerWempe
+庵	菴kHKGlyph,kMatthews
+庸	㐯 𠆌
+庾	斞kMatthews
+廀	廋kMatthews
+廁	厠kLau,kMatthews,kMeyerWempe
+廈	厦kLau,kMatthews
+廋	廀kMatthews
+廌	豸kMatthews
+廐	厩kMatthews
+廑	厪kMatthews
+廕	蔭kMatthews
+廚	厨kMatthews,kMeyerWempe
+廝	㒋kMatthews 厮kMatthews
+廟	庙kLau,kMatthews,kMeyerWempe
+廠	厰kLau,kMatthews
+廧	墻kLau,kMatthews 牆kLau,kMatthews
+廱	雝kMeyerWempe
+廵	巡kLau,kMatthews,kMeyerWempe
+廸	迪kMatthews
+廹	迫kMatthews,kMeyerWempe
+廻	回kMeyerWempe 迴kLau,kMatthews
+廼	乃kMatthews 迺kMatthews
+廿	卄kMatthews
+开	幵kFenn
+弈	奕kFenn
+弊	𡚁kFenn
+弌	一kLau,kMatthews,kMeyerWempe 壹kLau,kMatthews,kMeyerWempe
+弍	二kMatthews,kMeyerWempe 貳kMeyerWempe
+弔	吊kLau,kMatthews,kMeyerWempe
+弢	韜kLau,kMatthews,kMeyerWempe
+弦	絃kFenn
+強	强kLau,kMatthews 彊kLau,kMatthews
+强	強kLau,kMatthews 彊kLau,kMatthews
+彀	够kFenn 夠kFenn
+彊	強kLau,kMatthews 强kLau,kMatthews
+彐	彑kFenn
+彑	彐kFenn
+归	歸kMatthews
+彫	㓮kLau,kMatthews 雕kLau,kMatthews,kMeyerWempe
+彬	斌kMatthews,kMeyerWempe
+彷	髣kMatthews,kMeyerWempe 徬kLau
+彸	伀kMatthews
+往	徃kLau,kMatthews,kMeyerWempe
+徃	往kLau,kMatthews,kMeyerWempe
+徑	俓kMatthews,kMeyerWempe
+徒	𨑒kFenn
+從	从kMatthews
+徠	倈kLau,kMatthews 勑kLau
+御	馭kMatthews
+徤	健kFenn
+徧	遍kMatthews,kMeyerWempe
+徬	彷kLau
+徭	傜kMatthews
+德	悳kLau,kMatthews 惪kFenn
+徹	澈kLau
+心	㣺kMatthews 忄kMatthews
+忄	心kMatthews
+忍	㣼kMatthews
+忤	啎kMatthews 迕kMeyerWempe
+忭	昪kMatthews,kMeyerWempe
+忻	欣kLau,kMatthews,kMeyerWempe
+忼	慷kHKGlyph
+怀	懷kLau,kMatthews
+怌	懷kFenn
+怪	恠kLau,kMatthews
+怱	匆kHKGlyph,kLau,kMatthews 悤kLau,kMatthews,kMeyerWempe
+怳	恍kMatthews
+恆	恒kLau,kMatthews,kMeyerWempe
+恊	勰kMatthews
+恋	戀kMatthews
+恍	怳kMatthews
+恐	𢙢kLau
+恒	恆kLau,kMatthews,kMeyerWempe
+恠	怪kLau,kMatthews
+恡	吝kMatthews 悋kMatthews
+恤	卹kMatthews,kMeyerWempe
+恥	耻kLau,kMatthews,kMeyerWempe
+恩	摁kMatthews
+恿	慂kMatthews,kMeyerWempe
+悁	懁kMeyerWempe
+悅	悦kMatthews
+悊	哲kMatthews
+悋	吝kMatthews 恡kMatthews
+悐	惕kMatthews
+悚	𢥠kLau,kMeyerWempe
+悞	誤kLau
+悠	滺kFenn
+悤	匆kFenn 怱kLau,kMatthews,kMeyerWempe
+悦	悅kMatthews
+悳	德kLau,kMatthews
+悶	㥃kMatthews,kMeyerWempe 懣kLau,kMatthews
+惇	敦kLau,kMatthews
+惕	悐kMatthews
+惛	惽kMatthews
+惝	𢠵kMeyerWempe
+惧	懼kMatthews,kMeyerWempe
+惩	懲kMatthews
+惪	德kFenn
+惺	𢜫kFenn
+惽	惛kMatthews
+愈	愉kMeyerWempe
+愉	愈kMeyerWempe
+愍	憫kMatthews
+愠	慍kHKGlyph,kMeyerWempe
+愧	媿kMatthews,kMeyerWempe
+愬	訴kMatthews
+愻	遜kFenn
+愽	博kMatthews
+愿	願kFenn
+慁	㥵kMatthews
+慂	恿kMatthews,kMeyerWempe
+慈	㤵kFenn
+慍	愠kHKGlyph,kMeyerWempe
+慙	慚kMatthews,kMeyerWempe
+慚	慙kMatthews,kMeyerWempe
+慞	傽kMeyerWempe
+慷	忼kHKGlyph
+慼	慽kMatthews,kMeyerWempe
+慽	慼kMatthews,kMeyerWempe
+慾	欲kMeyerWempe
+憇	憩kMatthews
+憋	𢠳kMeyerWempe
+憑	凴kLau,kMatthews 𠗦kHanYu,kMeyerWempe
+憔	顦kMatthews,kMeyerWempe
+憙	喜
+憝	譈kMatthews,kMeyerWempe 懟kMatthews
+憩	憇kMatthews
+憫	愍kMatthews
+憯	㦧kMeyerWempe
+憰	譎kMatthews
+懁	悁kMeyerWempe
+懔	凛kFenn
+懜	懵kLau,kMatthews,kMeyerWempe
+懟	憝kMatthews 譈kMatthews
+懣	㥃kMatthews 悶kLau,kMatthews
+懥	懫kMatthews
+懫	懥kMatthews
+懲	惩kMatthews
+懵	懜kLau,kMatthews,kMeyerWempe
+懷	怀kLau,kMatthews 怌kFenn
+懼	惧kMatthews,kMeyerWempe
+懽	歡kFenn 欢kFenn
+戀	恋kMatthews
+戉	鉞kMatthews,kMeyerWempe
+戧	創kMatthews
+戯	戲kMatthews
+戱	戲kLau
+戲	戯kMatthews 戱kLau
+戹	厄kMatthews
+扅	扊kMatthews
+扊	扅kMatthews
+手	扌kMatthews
+扌	手kMatthews
+扎	紮kMeyerWempe
+扑	撲kLau,kMatthews
+托	拓kLau,kMatthews
+扞	捍kMeyerWempe
+执	執kFenn
+扯	撦kMatthews,kMeyerWempe
+扳	攀kLau,kMatthews
+扵	于kLau 亏kMatthews 於kLau,kMatthews
+扼	㧖kMatthews 搤kMatthews
+抌	舀kMatthews
+抍	拯kFenn
+抝	拗kLau
+报	報kMeyerWempe
+抬	擡kHKGlyph,kLau,kMatthews,kMeyerWempe
+抽	𢭆kFenn
+抿	㨉kMatthews
+担	擔kLau
+拇	𧿹kMeyerWempe
+拏	拿kLau,kMatthews,kMeyerWempe 挐kMatthews
+拓	托kLau,kMatthews
+拕	拖kMatthews,kMeyerWempe
+拖	拕kMatthews,kMeyerWempe
+拗	抝kLau
+拭	𢂑kFenn
+拯	抍kFenn
+拼	摒kMatthews
+拿	拏kLau,kMatthews,kMeyerWempe 挐kMatthews
+挂	掛kLau,kMatthews,kMeyerWempe
+挐	拏kMatthews 拿kMatthews
+挫	繲kMatthews
+挭	骾kMatthews 鯁kMatthews
+挱	挲kMatthews
+挲	挱kMatthews
+挷	搒kMeyerWempe
+挼	捼kMatthews
+捆	綑kLau
+捌	八kLau,kMeyerWempe
+捍	扞kMeyerWempe
+捏	揑kLau,kMatthews,kMeyerWempe
+捓	揶kLau,kMatthews
+捦	擒kMatthews,kMeyerWempe
+捬	撫kMatthews
+捵	䥀kFenn
+捶	箠kMeyerWempe
+捼	挼kMatthews
+掂	敁kMatthews
+掃	埽kMeyerWempe
+掏	搯kLau,kMatthews
+掐	𠜼kFenn
+掛	挂kLau,kMatthews,kMeyerWempe
+掩	揜kLau,kMatthews
+掬	匊kMatthews,kMeyerWempe
+掽	碰kFenn
+揅	研kMatthews
+揑	捏kLau,kMatthews,kMeyerWempe
+揜	掩kLau,kMatthews
+揝	撍kMatthews
+揦	攋kMatthews
+揪	揫kMeyerWempe
+揫	揪kMeyerWempe
+揶	捓kLau,kMatthews
+揸	楂kLau 摣kMatthews
+搃	總kFenn 摠kFenn
+搇	撳kMatthews
+搉	㩁kMatthews
+搒	挷kMeyerWempe
+搖	摇kMatthews
+搗	擣kLau,kMatthews
+搜	𢯱kHanYu 𢲷kFenn
+搞	攪kLau
+搤	㧖kMatthews 扼kMatthews
+搪	傏kMatthews
+搫	搬kMeyerWempe
+搬	搫kMeyerWempe
+搭	撘kMeyerWempe
+搯	掏kLau,kMatthews
+携	攜kHKGlyph,kLau,kMatthews,kMeyerWempe
+摁	恩kMatthews
+摇	搖kMatthews
+摒	拼kMatthews
+摠	搃kFenn 總kFenn
+摡	溉kMatthews
+摣	揸kMatthews
+摮	𢳆kMeyerWempe
+撂	㨼kFenn
+撆	撇kFenn,kMeyerWempe
+撇	撆kFenn,kMeyerWempe
+撍	揝kMatthews
+撐	撑kFenn
+撑	撐kFenn
+撘	搭kMeyerWempe
+撟	嬌kMatthews
+撦	扯kMatthews,kMeyerWempe
+撫	捬kMatthews
+撲	扑kLau,kMatthews
+撳	搇kMatthews
+擃	攮kMeyerWempe
+擄	虜kLau,kMatthews,kMeyerWempe
+擋	攩kLau,kMatthews,kMeyerWempe
+擒	捦kMatthews,kMeyerWempe
+擔	担kLau
+擗	劈kMeyerWempe
+擡	抬kHKGlyph,kLau,kMatthews,kMeyerWempe
+擣	搗kLau,kMatthews
+擥	㩜kMeyerWempe 攬kLau,kMatthews,kMeyerWempe
+擧	舉kHKGlyph
+擲	擿kTang
+擸	㧜kMatthews
+擿	擲kTang
+攀	㐴 扳kLau,kMatthews
+攅	攢kMeyerWempe
+攋	揦kMatthews
+攜	携kHKGlyph,kLau,kMatthews,kMeyerWempe
+攢	攅kMeyerWempe
+攩	擋kLau,kMatthews,kMeyerWempe
+攪	搞kLau
+攬	㩜kMeyerWempe 擥kLau,kMatthews,kMeyerWempe
+攮	擃kMeyerWempe
+攴	攵kMatthews
+攵	攴kMatthews
+收	㧃kMatthews 収kLau,kMatthews,kMeyerWempe
+攷	考kMatthews
+敁	掂kMatthews
+敃	暋kMatthews,kMeyerWempe
+效	効kMeyerWempe
+敉	侎kMatthews
+敍	叙kFenn 敘kHKGlyph,kMeyerWempe
+敎	教kLau,kMatthews
+敏	勄kMatthews,kMeyerWempe
+敕	勅kMatthews 勑kMatthews
+敗	䢙kMatthews
+敘	叙kHKGlyph,kLau,kMatthews 敍kHKGlyph,kMeyerWempe
+教	敎kLau,kMatthews
+敠	敪kMatthews
+敦	惇kLau,kMatthews
+敪	敠kMatthews
+敷	尃kMatthews 旉kMatthews
+敺	驅kLau,kMatthews
+斁	𤢕kMeyerWempe
+斅	斆kMatthews
+斆	斅kMatthews 鏰kMatthews
+斈	學kLau,kMatthews,kMeyerWempe
+斉	齊kMatthews
+斋	齋kLau,kMatthews
+斌	彬kMatthews,kMeyerWempe
+斚	斝kMatthews
+斝	斚kMatthews
+斞	㔱kMatthews 庾kMatthews
+斤	觔kLau,kMatthews,kMeyerWempe
+斥	㡿kMatthews
+断	斷kFenn
+斲	㓸kMatthews 斵kMatthews
+斵	斲kMatthews
+斷	断kFenn
+於	于kLau 亏kMatthews 扵kLau,kMatthews
+斾	旆kMatthews
+旂	旗kLau,kMatthews
+旆	斾kMatthews
+旈	旒kMatthews,kMeyerWempe
+旉	尃kMatthews 敷kMatthews
+旒	旈kMatthews,kMeyerWempe
+旗	旂kLau,kMatthews
+旘	幟kMatthews
+旛	幡kFenn
+无	無kFenn
+旧	舊kMatthews,kMeyerWempe
+旪	協kMatthews
+时	時kFenn 旹kFenn
+旹	时kFenn 時kLau,kMatthews
+昂	昻kMatthews
+明	朙kMatthews
+昏	昬kMatthews
+昒	㫚kHanYu
+昝	偺kMatthews 喒kMatthews
+映	暎kMatthews
+昪	忭kMatthews,kMeyerWempe
+昬	昏kMatthews
+昵	暱kLau,kMatthews,kMeyerWempe
+昷	𥁕kFenn
+昻	昂kMatthews
+晁	朝kMatthews
+時	时kFenn 旹kLau,kMatthews
+晅	烜kMatthews
+晉	晋kMatthews,kMeyerWempe
+晋	晉kMatthews,kMeyerWempe
+晒	曬kMatthews,kMeyerWempe
+晡	𣇀kHanYu:T
+晰	晳kFenn
+晳	晰kFenn
+暋	敃kMatthews,kMeyerWempe
+暎	映kMatthews
+暖	煖kLau,kMatthews
+暠	皜kMatthews 𣉞kMeyerWempe
+暱	昵kLau,kMatthews,kMeyerWempe
+暴	虣kMatthews
+曆	厤kLau,kMatthews 歴kMeyerWempe 歷kMeyerWempe
+曖	瞹kMeyerWempe
+曜	燿kCowles 耀kCowles
+曡	叠kMatthews 疊kMatthews
+曬	晒kMatthews,kMeyerWempe
+更	㪅kMatthews
+曼	㬅kMatthews
+朁	㬱kMatthews
+會	会kMatthews,kMeyerWempe
+朐	鸜kMatthews 鴝kMatthews
+朙	明kMatthews
+望	朢kMatthews
+朝	晁kMatthews
+朞	稘kMatthews
+朢	望kMatthews
+朳	杷kMatthews
+朴	樸kMatthews
+朵	朶kLau,kMatthews
+朶	朵kLau,kMatthews
+机	機kLau,kMatthews,kMeyerWempe
+朿	莿kMatthews
+杇	圬kMatthews,kMeyerWempe
+村	邨kHKGlyph,kLau,kMatthews
+杝	柂kMeyerWempe
+杠	槓kFenn
+条	條kMeyerWempe
+来	來kMeyerWempe
+杧	芒kLau
+杯	盃kLau,kMatthews,kMeyerWempe
+杰	傑kMatthews
+東	东kFenn
+杷	朳kMatthews
+杸	殳kMatthews
+板	版kMeyerWempe
+枏	楠kMeyerWempe
+果	菓kFenn
+枬	楠kMatthews
+枱	儓kLau 檯kHKGlyph,kLau,kMeyerWempe
+架	榢kMatthews
+枾	柹kMatthews
+柁	舵kMeyerWempe
+柂	杝kMeyerWempe
+柄	棅kMatthews
+柏	栢kMatthews,kMeyerWempe
+某	厶kLau
+柒	七kLau,kMatthews,kMeyerWempe
+柚	櫾kMatthews
+柜	櫃kHKGlyph
+查	査kMatthews
+柰	奈kLau,kMatthews,kMeyerWempe
+柳	檉kMatthews
+柹	枾kMatthews
+査	查kMatthews
+标	檁kMatthews
+栒	簨kMatthews,kMeyerWempe
+栖	棲kMatthews,kMeyerWempe
+栛	荔kMatthews
+栢	柏kMatthews,kMeyerWempe
+栰	筏kMatthews
+桌	棹kMatthews
+桼	㯃kMatthews 漆kMatthews
+梁	樑kMatthews,kMeyerWempe
+條	条kMeyerWempe 糶kLau
+梟	鴞kFenn
+梦	夢kLau,kMeyerWempe
+梨	棃kLau,kMatthews,kMeyerWempe
+梲	棳kMatthews
+梹	檳kMatthews,kMeyerWempe
+棃	梨kLau,kMatthews,kMeyerWempe
+棅	柄kMatthews
+棊	碁kLau,kMatthews 棋kLau,kMatthews,kMeyerWempe
+棋	棊kLau,kMatthews,kMeyerWempe 碁kLau,kMatthews
+棐	榧kMatthews
+棑	篺kMeyerWempe
+棕	㯶kFenn 椶kLau,kMatthews,kMeyerWempe
+棥	樊kMatthews
+棰	槌kLau
+棱	稜kMeyerWempe 楞kFenn
+棲	栖kMatthews,kMeyerWempe
+棳	梲kMatthews
+棹	桌kMatthews 櫂kLau
+椀	盌kMatthews,kMeyerWempe 碗kMatthews,kMeyerWempe
+椁	槨kMatthews,kMeyerWempe
+椎	槌kMatthews
+椰	㭨kLau,kMatthews,kMeyerWempe
+椶	棕kLau,kMatthews,kMeyerWempe
+椹	葚kFenn
+楂	揸kLau 槎kMatthews
+楞	棱kFenn 稜kFenn
+楠	枏kMeyerWempe 枬kMatthews
+楥	楦kMatthews,kMeyerWempe
+楦	楥kMatthews,kMeyerWempe
+楫	艥kMatthews 檝kMatthews
+概	槩kFenn
+榎	檟kMatthews
+榛	亲kMatthews
+榢	架kMatthews
+榧	棐kMatthews
+榨	醡kMatthews
+榮	荣kMeyerWempe
+榴	橊kMeyerWempe
+槀	稿kLau
+槊	鎙kMeyerWempe
+槌	棰kLau 椎kMatthews
+槎	楂kMatthews
+槓	杠kFenn 篢kMeyerWempe
+槖	橐kMeyerWempe
+槨	椁kMatthews,kMeyerWempe
+槩	㮣kMatthews 概kFenn
+槪	㮣kMatthews
+槹	𣓌kMeyerWempe
+樊	棥kMatthews
+樐	㯭kMatthews 艪kMatthews 櫓kMatthews
+樑	梁kMatthews,kMeyerWempe
+樚	轆kMatthews
+樷	叢kFenn
+樸	朴kMatthews
+樻	匱kMeyerWempe 櫃kMeyerWempe
+樽	墫kMatthews 罇kLau,kMatthews,kMeyerWempe
+橆	無kMatthews
+橇	鞽kFenn
+橊	榴kMeyerWempe
+橐	槖kMeyerWempe
+橓	蕣kMeyerWempe
+橛	橜kFenn,kMeyerWempe
+橜	橛kFenn,kMeyerWempe
+機	机kLau,kMatthews,kMeyerWempe
+檁	标kMatthews
+檉	柳kMatthews
+檐	簷kMatthews,kMeyerWempe
+檔	欓kMatthews,kMeyerWempe
+檛	簻kMeyerWempe
+檝	楫kMatthews 艥kMatthews
+檟	榎kMatthews
+檠	𢐧kMeyerWempe
+檣	艢kMatthews
+檯	儓kLau 枱kHKGlyph,kLau,kMeyerWempe
+檳	㯽kMatthews,kMeyerWempe 梹kMatthews,kMeyerWempe
+檴	穫kMeyerWempe
+檾	䔛kFenn
+櫂	棹kLau
+櫃	匱kLau,kMatthews,kMeyerWempe 柜kHKGlyph 樻kMeyerWempe 饋kLau 鐀kMatthews
+櫈	凳kHKGlyph,kLau,kMatthews,kMeyerWempe
+櫌	耰kMatthews
+櫓	㯭kMatthews 樐kMatthews 艪kLau,kMatthews
+櫝	匵kMatthews,kMeyerWempe
+櫱	蘖kMatthews
+櫳	㰍kMatthews,kMeyerWempe
+櫺	欞kMeyerWempe
+櫾	柚kMatthews
+欓	檔kMatthews,kMeyerWempe
+欝	鬱kMatthews,kMeyerWempe
+欞	櫺kMeyerWempe
+欢	懽kFenn 歡kFenn
+欣	忻kLau,kMatthews,kMeyerWempe
+欬	咳kMatthews
+欲	慾kMeyerWempe
+欵	款kLau,kMatthews,kMeyerWempe
+欶	𠲿kFenn
+欸	唉kFenn
+欹	猗kMatthews,kMeyerWempe
+欼	啜kMatthews 歠kMatthews
+款	欵kLau,kMatthews,kMeyerWempe
+歌	謌kLau,kMatthews
+歎	嘆kHKGlyph,kLau,kMatthews,kMeyerWempe
+歕	呠kMatthews 噴kMatthews
+歗	嘯kMatthews
+歠	啜kMatthews 欼kMatthews
+歡	懽kFenn 欢kFenn
+歱	踵kFenn
+歲	亗kMatthews 岁kMatthews 嵗 歳kMatthews 𡻕kLau,kMeyerWempe
+歳	歲kMatthews
+歴	曆kMeyerWempe 歷kMeyerWempe
+歷	曆kMeyerWempe 歴kMeyerWempe
+歸	归kMatthews
+歹	歺kLau,kMatthews
+歺	歹kLau,kMatthews
+歿	殁kMatthews
+殁	歿kMatthews
+殃	䄃kMatthews
+殉	侚kMatthews 狥kMatthews,kMeyerWempe
+殰	𦢌kMeyerWempe
+殳	杸kMatthews
+殻	壳kFenn
+殼	㱿kMatthews
+殽	淆kLau
+毓	育kMatthews
+毗	毘kMatthews,kMeyerWempe
+毘	毗kMatthews,kMeyerWempe
+毡	氈kMatthews,kMeyerWempe
+毧	㲓kMatthews
+氅	鷩kFenn
+氈	毡kMatthews,kMeyerWempe 氊kMatthews
+氊	氈kMatthews
+氓	甿kMatthews,kMeyerWempe
+氜	陽kMatthews 阳kFenn
+氣	炁kLau,kMatthews
+氤	絪kMeyerWempe
+氯	綠kMatthews
+水	氵kMatthews
+氵	水kMatthews
+氷	冫kMatthews 冰kLau,kMatthews
+氼	溺kMatthews
+汎	泛kLau,kMatthews,kMeyerWempe
+汙	污kLau 洿kMatthews 汚kMatthews,kMeyerWempe
+汚	汙kMatthews,kMeyerWempe 洿kMatthews
+污	汙kLau
+決	决kLau,kMatthews,kMeyerWempe
+沈	沉kMatthews
+沉	沈kMatthews
+沍	冱kMatthews,kMeyerWempe
+沖	冲kLau,kMatthews,kMeyerWempe
+沪	冱kMeyerWempe
+沱	沲kMatthews,kMeyerWempe
+沲	沱kMatthews,kMeyerWempe
+沸	㵒kFenn
+況	况kMatthews,kMeyerWempe
+泄	洩kHKGlyph,kLau,kMeyerWempe 渫kFenn
+泉	洤kMatthews
+泛	汎kLau,kMatthews,kMeyerWempe
+泝	遡kMatthews
+泥	坭kLau,kMatthews
+泪	淚kLau,kMatthews,kMeyerWempe
+洒	灑kLau,kMatthews,kMeyerWempe
+洞	峒kMeyerWempe
+洤	泉kMatthews
+洩	泄kHKGlyph,kLau,kMeyerWempe 渫kFenn
+洿	汙kMatthews 汚kMatthews
+浚	濬kMatthews,kMeyerWempe
+浣	澣kMatthews,kMeyerWempe
+浼	凂kMatthews 潣kHanYu
+涅	湼
+涌	湧kMatthews
+涎	㳄kMatthews
+涕	䶏kMatthews
+涖	莅kMatthews 蒞kMatthews
+涶	唾kMatthews
+涼	凉kLau,kMatthews,kMeyerWempe
+淆	殽kLau
+淒	凄kMatthews,kMeyerWempe
+淚	泪kLau,kMatthews,kMeyerWempe
+淜	漰kMeyerWempe
+淡	澹kFenn
+淨	凈kLau,kMatthews
+淫	婬kMeyerWempe
+淳	湻kMatthews,kMeyerWempe
+淹	渰kMatthews
+渚	陼kMatthews,kMeyerWempe
+減	减kLau,kMatthews,kMeyerWempe
+渨	隈kMatthews,kMeyerWempe
+温	溫kMatthews
+渫	泄 洩kFenn
+渰	淹kMatthews
+渹	𢕐kMeyerWempe 訇kMeyerWempe
+湊	凑kMatthews,kMeyerWempe
+湏	須kMatthews
+湧	涌kMatthews
+湻	淳kMatthews,kMeyerWempe
+湼	涅
+溉	摡kMatthews
+準	准kMeyerWempe
+溫	温kMatthews
+溯	遡kMeyerWempe
+溺	氼kMatthews
+溻	褟kFenn
+溼	濕kLau,kMatthews,kMeyerWempe
+溽	縟kLau
+滅	烕kLau,kMatthews,kMeyerWempe
+滙	匯kLau,kMatthews,kMeyerWempe
+滺	悠kFenn
+漁	䱷kMatthews
+漆	㯃kMatthews 桼kMatthews
+漇	𢳜kMeyerWempe
+漎	潨kMatthews
+漫	澷kMatthews
+漰	淜kMeyerWempe
+漾	瀁kMatthews
+漿	𤕯kFenn
+潛	潜kMatthews
+潜	潛kMatthews
+潝	㴔kMatthews
+潣	浼kHanYu
+潨	漎kMatthews
+潬	灘kMatthews
+澀	澁kMeyerWempe 濇kMatthews,kMeyerWempe 瀒kMatthews
+澁	澀kMeyerWempe 濇kMeyerWempe
+澈	徹kLau
+澗	磵kMatthews
+澣	浣kMatthews,kMeyerWempe
+澳	襖kMatthews 𥜌kMatthews
+澷	漫kMatthews
+澹	淡kFenn
+濇	澀kMatthews,kMeyerWempe 澁kMeyerWempe 瀒kMatthews
+濕	溼kLau,kMatthews,kMeyerWempe
+濛	霥kMeyerWempe 靀kMatthews
+濬	浚kMatthews,kMeyerWempe
+濱	濵kMatthews,kMeyerWempe 瀕kFenn
+濵	濱kMatthews,kMeyerWempe 瀕kMatthews
+濶	闊kLau,kMatthews,kMeyerWempe
+濿	砅kMeyerWempe
+瀁	漾kMatthews
+瀒	澀kMatthews 濇kMatthews
+瀕	濱kFenn 濵kMatthews
+灑	洒kLau,kMatthews,kMeyerWempe
+灘	潬kMatthews
+火	灬kMatthews
+灬	火kMatthews
+灯	燈kMatthews,kMeyerWempe
+灰	灰kFenn
+灴	烘kMatthews
+灵	靈kFenn
+灶	竈kHKGlyph,kLau,kMatthews,kMeyerWempe
+災	灾kLau,kMatthews,kMeyerWempe 烖kLau,kMatthews 菑kFenn
+灾	災kLau,kMatthews,kMeyerWempe 菑kFenn 烖kLau,kMatthews
+炁	氣kLau,kMatthews
+炉	爐kLau,kMatthews,kMeyerWempe
+炤	照kLau,kMatthews
+炮	砲kMeyerWempe 炰kMatthews 礮kMeyerWempe
+炯	烱kMatthews,kMeyerWempe
+炰	炮kMatthews
+炸	煠kLau,kMatthews
+点	點kLau,kMatthews,kMeyerWempe
+為	爲kHKGlyph
+烊	煬kMatthews,kMeyerWempe
+烕	滅kLau,kMatthews,kMeyerWempe
+烖	災kLau,kMatthews 灾kLau,kMatthews 菑kFenn
+烘	灴kMatthews
+烛	燭kLau,kMatthews
+烜	晅kMatthews
+烝	蒸kFenn
+烟	完kLau 菸kFenn 煙kHKGlyph,kLau,kMatthews,kMeyerWempe
+烱	炯kMatthews,kMeyerWempe
+無	无kFenn 橆kMatthews
+焰	燄kMatthews,kMeyerWempe
+煅	鍛kLau,kMatthews
+煆	鍜kMeyerWempe
+煇	輝kFenn
+煑	煮kFenn
+煖	暖kLau,kMatthews
+煙	完kLau 烟kHKGlyph,kLau,kMatthews,kMeyerWempe 菸
+煠	炸kLau,kMatthews
+照	炤kLau,kMatthews
+煬	烊kMatthews,kMeyerWempe
+煮	煑kFenn
+煳	㷻kMatthews
+熇	燺kMatthews
+熈	熙kMatthews
+熏	燻kLau,kMatthews,kMeyerWempe 𤑕
+熔	鎔kLau,kMatthews
+熙	熈kMatthews
+熨	㷉kMatthews
+熱	𤍠kLau,kMeyerWempe
+燄	焰kMatthews,kMeyerWempe
+燈	灯kMatthews,kMeyerWempe
+燐	㷠kMatthews 粦kMatthews,kMeyerWempe
+燒	簫kLau
+燭	烛kLau,kMatthews
+燺	熇kMatthews
+燻	熏kLau,kMatthews,kMeyerWempe
+燿	曜kCowles 耀kCowles,kFenn
+爐	炉kLau,kMatthews,kMeyerWempe
+爪	㕚kMatthews 爫kLau,kMatthews
+爫	㕚kMatthews 爪kLau,kMatthews
+爭	争kMatthews
+爲	為kHKGlyph
+爾	尒kMatthews 尔kMatthews
+牀	床kLau,kMatthews,kMeyerWempe
+牄	蹌kMatthews
+牆	墻kLau,kMatthews,kMeyerWempe 廧kLau,kMatthews
+版	板kMeyerWempe
+牋	箋kLau,kMatthews
+牕	窻kFenn 窗kFenn 窓kLau,kMatthews
+牛	牜kMatthews
+牜	牛kMatthews
+牟	麰kMatthews
+牠	他kMatthews 它kLau
+牴	觝kMatthews,kMeyerWempe
+犁	犂kMatthews,kMeyerWempe
+犂	犁kMatthews,kMeyerWempe
+犇	奔kMatthews
+犬	犭kLau,kMatthews
+犭	犬kLau,kMatthews
+犲	豺kMatthews
+犴	豻kMatthews,kMeyerWempe
+犹	猶kFenn
+狥	侚kMatthews 殉kMatthews,kMeyerWempe
+独	獨kFenn
+狵	尨kMatthews,kMeyerWempe
+狷	獧kMatthews,kMeyerWempe
+狸	貍kHKGlyph,kMatthews,kMeyerWempe
+狹	陜kFenn
+狻	䝜kMeyerWempe
+猇	唬kMeyerWempe 虓kMatthews,kMeyerWempe
+猋	飇kMatthews 颮kMatthews
+猗	欹kMatthews,kMeyerWempe
+猨	蝯kMatthews,kMeyerWempe 猿kMatthews,kMeyerWempe
+猪	豬kLau,kMatthews,kMeyerWempe
+猫	貓kLau,kMatthews,kMeyerWempe
+猬	蝟kMatthews,kMeyerWempe
+献	獻kLau,kMatthews
+猶	犹kFenn
+猿	猨kMatthews,kMeyerWempe 蝯kMatthews,kMeyerWempe
+獃	呆kMatthews
+獐	麞kMatthews
+獠	䝤kMeyerWempe
+獧	狷kMatthews,kMeyerWempe
+獨	独kFenn
+獫	玁kMeyerWempe
+獵	𤢪kTang
+獻	献kLau,kMatthews
+獾	貛kMatthews
+玁	獫kMeyerWempe
+玄	伭kMatthews
+玅	妙kLau,kMatthews
+玆	兹kMatthews 茲kMatthews
+玖	九kLau,kMatthews,kMeyerWempe
+玟	玫kLau,kMatthews
+玫	玟kLau,kMatthews
+玳	瑇kMatthews,kMeyerWempe
+珉	䃉kMatthews 砇kFenn
+珍	珎kLau,kMatthews
+珎	珍kLau,kMatthews
+珪	圭kMatthews
+珷	碔kMeyerWempe
+琄	鞙kMeyerWempe
+琅	瑯kMatthews,kMeyerWempe
+琉	瑠kLau,kMatthews
+瑇	玳kMatthews,kMeyerWempe
+瑙	碯kMatthews
+瑠	琉kLau,kMatthews
+瑯	琅kMatthews,kMeyerWempe
+璁	𤧚kMeyerWempe
+璃	瓈kFenn
+璇	璿kMatthews
+璢	琉kMeyerWempe
+璽	壐kMatthews
+璿	璇kMatthews
+瓈	璃kFenn
+瓟	匏kMatthews,kMeyerWempe
+瓮	罋kMatthews 甕kLau,kMatthews,kMeyerWempe
+瓶	缾kMatthews,kMeyerWempe
+瓷	磁kMatthews
+甎	磚kLau,kMatthews,kMeyerWempe
+甕	瓮kLau,kMatthews,kMeyerWempe 罋kMatthews
+甖	罌kMatthews 罃kMatthews
+甞	嘗kMeyerWempe
+甤	蕤kMatthews
+甦	穌kLau,kMatthews
+甬	埇kFenn
+甯	寗kMatthews
+町	圢kMeyerWempe
+画	畫kMatthews
+甽	畎kMatthews
+甾	菑kMatthews
+甿	氓kMatthews,kMeyerWempe
+畄	留kFenn 畱kFenn
+畆	畝kFenn
+畊	耕kLau,kMatthews
+畎	甽kMatthews
+留	畄kFenn 畱kLau,kMatthews,kMeyerWempe
+畝	畆kFenn
+略	畧kHKGlyph,kLau,kMatthews,kMeyerWempe
+畧	略kHKGlyph,kLau,kMatthews,kMeyerWempe
+畫	画kMatthews 畵kMatthews
+畱	畄kFenn 留kLau,kMatthews,kMeyerWempe
+畵	畫kMatthews
+畺	疆kMatthews
+畽	疃kMatthews
+疃	畽kMatthews
+疆	畺kMatthews
+疊	叠kMatthews,kMeyerWempe 曡kMatthews
+疋	匹kMeyerWempe
+疍	蛋kMeyerWempe
+疎	疏kFenn
+疏	疎kFenn
+疣	肬kMatthews
+疱	皰kMatthews
+疴	痾kLau,kMatthews,kMeyerWempe
+疸	癉kLau,kMeyerWempe
+疹	胗kMatthews
+痐	蚘kMeyerWempe
+痒	癢kMatthews
+痮	脹kMatthews
+痴	癡kHKGlyph,kLau,kMatthews,kMeyerWempe
+痹	痺kMatthews
+痺	痹kMatthews
+痼	㽽kMeyerWempe
+痾	疴kLau,kMatthews,kMeyerWempe
+瘂	啞kFenn
+瘉	癒kHKGlyph
+瘨	癲kMatthews,kMeyerWempe
+瘶	嗽kMatthews
+瘺	瘻kMatthews
+瘻	瘺kMatthews
+癉	疸kLau,kMeyerWempe
+癒	瘉kHKGlyph
+癡	痴kHKGlyph,kLau,kMatthews,kMeyerWempe
+癢	痒kFenn,kMatthews
+癯	臞kMeyerWempe
+癲	瘨kMatthews,kMeyerWempe
+登	豋kFenn
+百	佰kMatthews,kMeyerWempe
+皁	皂kMatthews,kMeyerWempe
+皂	皁kMatthews,kMeyerWempe
+皃	貎kMatthews 貌kFenn
+皋	臯kMatthews 睾kMatthews
+皎	㿟kMatthews 皦kFenn
+皓	顥kMatthews 皝kMatthews
+皜	暠kMatthews
+皝	皓kMatthews 顥kMatthews
+皞	皡kMatthews 皥kMatthews
+皡	皞kMatthews 皥kMatthews
+皥	皞kMatthews 皡kMatthews
+皦	㿟kFenn 皎kFenn
+皰	疱kMatthews
+皷	鼔kLau,kMatthews 鼓kLau,kMatthews
+皺	縐kLau
+盃	杯kLau,kMatthews,kMeyerWempe
+盇	盍kMatthews
+益	益kMeyerWempe
+盌	椀kMatthews,kMeyerWempe 碗kLau,kMatthews,kMeyerWempe
+盍	盇kMatthews
+盖	蓋kLau,kMatthews,kMeyerWempe 葢kFenn
+盗	盜kMatthews
+盙	簠kMatthews,kMeyerWempe
+盜	盗kMatthews
+盡	尽kLau,kMatthews
+盩	盭kMeyerWempe
+盪	蕩 蘯
+盭	盩kMeyerWempe
+眇	緲kMeyerWempe
+眈	躭kMatthews
+眎	視kMatthews
+眞	真kLau,kMatthews
+真	眞kLau,kMatthews
+眥	眦kMatthews
+眦	眥kMatthews
+眾	衆kLau,kMatthews 𠂝kLau
+着	著
+睏	困kFenn
+睫	䀹kMatthews
+睹	覩kMatthews,kMeyerWempe
+睾	皋kMatthews
+睿	叡kMatthews,kMeyerWempe
+瞅	矁kFenn
+瞍	𥈟kHanYu,kMeyerWempe
+瞠	瞪kMatthews,kMeyerWempe
+瞥	苤kMatthews
+瞪	瞠kMatthews,kMeyerWempe
+瞬	䀢kMatthews
+瞯	瞷kMeyerWempe
+瞰	矙kMatthews
+瞷	瞯kMeyerWempe
+瞹	曖kMeyerWempe
+瞿	䀠kMatthews
+矁	瞅kFenn
+矋	矖kMeyerWempe
+矖	矋kMeyerWempe
+矙	瞰kMatthews
+矧	訠kMatthews,kMeyerWempe
+矮	躷kMatthews,kMeyerWempe
+石	𥐘kHanYu
+砅	濿kMeyerWempe
+砇	珉kFenn
+砌	纖kLau
+砒	磇kMatthews,kMeyerWempe
+研	揅kMatthews
+砠	岨kMatthews,kMeyerWempe
+砣	𥓿kFenn 鉈kMatthews
+砥	厎kMatthews
+砦	寨kLau,kMatthews,kMeyerWempe
+砧	碪kLau,kMatthews
+砲	炮kMeyerWempe 礮kLau,kMatthews,kMeyerWempe
+硜	䃘kMatthews 踁kMeyerWempe
+硤	唊kMeyerWempe
+硭	𥐞kMeyerWempe
+碁	棊kLau,kMatthews 棋kLau,kMatthews
+碍	㝵kMatthews 礙kLau,kMatthews,kMeyerWempe
+碔	珷kMeyerWempe
+碗	椀kMatthews,kMeyerWempe 盌kLau,kMatthews,kMeyerWempe
+碪	砧kLau,kMatthews
+碯	瑙kMatthews
+碰	掽kFenn
+碱	鹼kLau 鹻kLau
+磁	瓷kMatthews
+磇	砒kMatthews,kMeyerWempe
+磊	磥kMatthews
+磌	𧰊kMeyerWempe
+磒	隕kLau,kMatthews,kMeyerWempe
+磚	甎kLau,kMatthews,kMeyerWempe
+磛	嶃kMeyerWempe
+磡	墈kLau,kMatthews
+磥	磊kMatthews
+磪	崔kMatthews,kMeyerWempe
+磴	嶝kMatthews
+磵	澗kMatthews
+磽	墝kMatthews
+礙	㝵kMatthews 碍kLau,kMatthews,kMeyerWempe
+礟	礮kLau,kMatthews
+礦	鑛kLau,kMatthews,kMeyerWempe
+礮	炮kMeyerWempe 砲kLau,kMatthews,kMeyerWempe 礟kLau,kMatthews
+礱	𤮨kMeyerWempe
+礶	罐kFenn
+示	礻kMatthews
+礻	示kMatthews
+礼	礼kMatthews 禮kMatthews,kMeyerWempe
+礿	禴kMatthews,kMeyerWempe
+祐	佑kFenn
+祕	秘kMatthews,kMeyerWempe
+禀	稟kMeyerWempe
+禂	禱kMatthews
+禮	礼kMatthews,kMeyerWempe 礼kMatthews
+禱	禂kMatthews
+禴	礿kMatthews,kMeyerWempe
+禿	秃kMatthews
+秃	禿kMatthews
+秄	耔kMeyerWempe
+秆	稈kMatthews
+秇	埶kMatthews 蓺kMatthews 藝kMatthews
+秈	籼kMatthews
+秋	䆋kMatthews 秌kLau 龝kMatthews
+秌	秋kLau
+秏	耗kMatthews
+秐	耘kMatthews,kMeyerWempe
+秔	粳kMatthews,kMeyerWempe 稉kMatthews,kMeyerWempe
+秕	粃kMatthews
+秘	祕kMatthews,kMeyerWempe
+秸	稭kMatthews
+移	迻kMatthews
+稈	秆kMatthews
+稉	秔kMatthews,kMeyerWempe 粳kMatthews,kMeyerWempe
+稊	䄺kMeyerWempe
+稘	朞kMatthews
+稚	䕌kMatthews 穉kMatthews 稺kMeyerWempe
+稜	棱kMeyerWempe 楞kFenn
+稟	禀kMeyerWempe
+稬	糯kMatthews
+稭	秸kMatthews
+稱	偁kMatthews 穪kMatthews
+稺	稚kMeyerWempe
+稾	稿kMatthews,kMeyerWempe
+稿	槀kLau 稾kMatthews,kMeyerWempe
+穀	糓kMatthews,kMeyerWempe
+穅	糠kLau,kMatthews,kMeyerWempe
+穉	稚kMatthews
+穌	甦kLau,kMatthews
+穎	頴kMatthews
+穤	糯kFenn
+穩	㒚kMatthews
+穪	偁kMatthews 稱kMatthews
+穫	檴kMeyerWempe
+穽	阱kMatthews,kMeyerWempe
+窃	竊kLau,kMatthews,kMeyerWempe
+窌	窖kMatthews
+窓	䆫kMeyerWempe 牕kLau,kMatthews 窗kLau,kMatthews,kMeyerWempe 窻kFenn
+窖	窌kMatthews
+窗	䆫kMeyerWempe 牕kFenn 窓kLau,kMatthews,kMeyerWempe 窻kFenn
+窮	竆kLau,kMatthews,kMeyerWempe
+窯	窰kMatthews,kMeyerWempe
+窰	窯kMatthews,kMeyerWempe
+窴	塡kMatthews
+窶	寠kMatthews,kMeyerWempe,kPhonetic
+窻	牕kFenn 窓kFenn 窗kFenn
+竆	窮kLau,kMatthews,kMeyerWempe
+竈	灶kHKGlyph,kLau,kMatthews,kMeyerWempe
+竉	䆔kMeyerWempe 𥥅kMeyerWempe
+竊	窃kLau,kMatthews,kMeyerWempe
+竒	奇kLau,kMatthews
+竚	佇kMatthews,kMeyerWempe
+竝	並kMatthews 并kMatthews 幷kMatthews
+竢	俟kMatthews,kMeyerWempe
+竪	豎kLau,kMatthews
+競	誩kMatthews
+竻	簕kMeyerWempe 𥵚kMeyerWempe
+竿	𣔼kLau
+笋	筍kLau,kMatthews,kMeyerWempe
+笑	咲kFenn
+笓	篦kMatthews,kMeyerWempe
+笔	筆kMatthews,kMeyerWempe
+笛	篴kFenn
+笨	㤒kFenn
+筆	笔kMatthews,kMeyerWempe
+筍	笋kLau,kMatthews,kMeyerWempe
+筏	栰kMatthews
+答	荅kLau,kMeyerWempe
+筦	管kMatthews
+筭	算kMatthews
+筯	箸kMatthews
+筱	篠kMatthews
+箇	个kLau,kMatthews,kMeyerWempe 個kLau,kMatthews
+箋	牋kLau,kMatthews
+箍	箛kFenn
+箎	篪kMatthews
+箒	帚kMatthews,kMeyerWempe
+箖	籃kMeyerWempe
+算	筭kMatthews
+箛	箍kFenn
+箠	捶kMeyerWempe
+管	筦kMatthews
+箴	針kMeyerWempe 鍼kMeyerWempe
+箸	筯kMatthews
+箾	簫kMatthews
+篋	匧kMatthews
+篠	筱kMatthews
+篡	簒kMatthews
+篢	槓kMeyerWempe
+篦	笓kMatthews,kMeyerWempe
+篩	簛kMatthews 簁kMatthews
+篪	箎kMatthews
+篴	笛kFenn
+篺	棑kMeyerWempe
+簁	篩kMatthews 簛kMatthews
+簌	雝kCowles 
+簒	篡kMatthews
+簕	竻kMeyerWempe
+簛	篩kMatthews 簁kMatthews
+簠	盙kMatthews,kMeyerWempe
+簡	耕kLau
+簣	蕢kMeyerWempe 籄kMatthews,kMeyerWempe
+簨	栒kMatthews,kMeyerWempe
+簫	燒kLau 箾kMatthews
+簷	檐kMatthews,kMeyerWempe
+簻	檛kMeyerWempe
+簾	𢅖kMeyerWempe 𢅏kLau
+籃	箖kMeyerWempe
+籄	簣kMatthews,kMeyerWempe 蕢kMeyerWempe
+籐	藤kLau,kMatthews,kMeyerWempe
+籑	䉵kMatthews 饌kMatthews
+籥	龠
+籲	龥kLau,kMatthews,kMeyerWempe
+籼	秈kMatthews
+粃	秕kMatthews
+粗	麤kMatthews 麄kMatthews 觕kMatthews
+粘	黏kLau
+粤	粵kMatthews
+粦	㷠kMatthews 燐kMatthews,kMeyerWempe
+粧	妝kLau,kMatthews,kMeyerWempe
+粮	糧kLau,kMatthews,kMeyerWempe
+粳	秔kMatthews,kMeyerWempe 稉kMatthews,kMeyerWempe
+粵	粤kMatthews
+粽	糉kHKGlyph,kLau,kMatthews,kMeyerWempe
+糇	餱kMatthews,kMeyerWempe
+糉	粽kHKGlyph,kLau,kMatthews,kMeyerWempe
+糓	穀kMatthews,kMeyerWempe
+糕	餻kLau,kMatthews,kMeyerWempe
+糖	餹kMatthews
+糙	㿷kMatthews,kMeyerWempe
+糟	醩kMatthews
+糠	穅kLau,kMatthews,kMeyerWempe
+糡	糨kMatthews
+糤	饊kMeyerWempe
+糧	粮kLau,kMatthews,kMeyerWempe
+糨	糡kMatthews
+糯	稬kMatthews 穤kFenn
+糰	䊜kFenn
+糶	條kLau
+糸	糹kMatthews
+糹	糸kMatthews
+糺	糾kMatthews,kMeyerWempe
+糾	糺kMatthews,kMeyerWempe
+紙	帋kMatthews
+級	𨸚kFenn
+紟	衿kFenn
+紥	紮
+紬	綢kFenn
+紮	扎kMeyerWempe 紥kFenn
+紲	緤kMeyerWempe
+紹	佋kMatthews
+絃	弦kFenn
+絅	褧kMatthews,kMeyerWempe
+絖	纊kMatthews
+絚	緪kMatthews 縆kMatthews
+絛	縚kMatthews
+絝	袴kLau,kMatthews 褲kLau,kMatthews
+絥	鞴kMatthews
+絪	氤kMeyerWempe
+統	綂kHanYu:T
+綂	統kHanYu
+綉	繡kHKGlyph,kLau,kMatthews,kMeyerWempe
+綑	捆kLau
+經	𦀇kHanYu
+綠	氯kMatthews
+綢	紬kFenn
+綫	線kHKGlyph,kLau,kMatthews,kMeyerWempe
+綳	繃kLau,kMatthews
+綻	䘺kFenn
+綿	緜kMatthews,kMeyerWempe
+緊	𦂳kHanYu
+線	綫kHKGlyph,kLau,kMatthews,kMeyerWempe
+緜	綿kMatthews,kMeyerWempe
+緣	縁kMatthews
+緤	紲kMeyerWempe
+緥	褓kMatthews
+緪	絚kMatthews 縆kMatthews
+緲	眇kMeyerWempe
+縁	緣kMatthews
+縆	絚kMatthews 緪kMatthews
+縐	皺kLau
+縚	絛kMatthews
+縟	溽kLau
+縭	褵kMeyerWempe
+縯	䌥kFenn
+總	搃kFenn 摠kFenn
+繃	綳kLau,kMatthews
+繅	繰kMatthews
+繈	繦kMatthews 襁kMatthews,kMeyerWempe
+繖	傘kMatthews
+繞	遶kMatthews,kMeyerWempe
+繡	綉kHKGlyph,kLau,kMatthews,kMeyerWempe
+繦	繈kMatthews 襁kMatthews
+繩	䋲kMeyerWempe
+繮	韁kLau,kMatthews
+繰	繅kMatthews
+繲	挫kMatthews
+纊	絖kMatthews
+纎	纖kMeyerWempe
+纖	砌kLau 纎kMeyerWempe
+纜	䌫kMeyerWempe
+缶	缻kMatthews
+缸	堈kLau,kMatthews 罁kLau,kMatthews
+缻	缶kMatthews
+缽	鉢kHKGlyph
+缾	瓶kMatthews,kMeyerWempe
+罁	堈kLau,kMatthews 缸kLau,kMatthews
+罃	甖kMatthews 罌kMatthews
+罅	𨻲kFenn
+罇	墫kMatthews 樽kLau,kMatthews,kMeyerWempe
+罈	墰kFenn 壜kMatthews
+罋	瓮kMatthews 甕kMatthews
+罌	甖kMatthews 罃kMatthews
+罐	礶kFenn
+网	㓁kMatthews 罔kFenn
+罔	网kFenn
+罗	羅kFenn
+罩	䈇kLau,kMatthews
+罪	辠kLau,kMatthews
+置	寘kMatthews
+罵	傌kMatthews
+羃	冪kMatthews
+羅	罗kFenn
+羈	覊kMatthews
+羌	羗kMatthews
+美	羙kMeyerWempe
+羓	豝kMeyerWempe
+羖	𦍩kMeyerWempe
+羗	羌kMatthews
+羙	美kMeyerWempe
+羡	羨kFenn
+羣	群kHKGlyph,kLau,kMatthews,kMeyerWempe
+群	羣kHKGlyph,kLau,kMatthews,kMeyerWempe
+羨	羡kFenn
+義	义kFenn
+羮	羹kMatthews,kMeyerWempe
+羴	羶kMatthews
+羶	羴kMatthews
+羹	羮kMatthews,kMeyerWempe
+翄	翅kMatthews,kMeyerWempe
+翅	翄kMatthews,kMeyerWempe
+翥	䬡kMatthews,kMeyerWempe
+翦	剪kLau,kMatthews,kMeyerWempe
+翱	翺kHKGlyph
+翺	翱kHKGlyph
+耀	曜kCowles 燿kCowles,kFenn
+考	攷kMatthews
+耏	耐kMatthews
+耐	耏kMatthews
+耑	專kLau,kMatthews,kMeyerWempe
+耔	秄kMeyerWempe
+耕	畊kLau,kMatthews 簡kLau
+耗	秏kMatthews
+耘	秐kMatthews,kMeyerWempe
+耙	鈀kMatthews
+耤	藉kMatthews
+耨	鎒kMatthews
+耰	櫌kMatthews
+耻	恥kLau,kMatthews,kMeyerWempe
+耼	聃kMatthews
+聃	耼kMatthews
+聖	圣kMatthews,kMeyerWempe
+聝	馘kMatthews,kMeyerWempe
+聦	聰kLau,kMatthews,kMeyerWempe
+聰	聦kLau,kMatthews,kMeyerWempe
+聲	声kMatthews,kMeyerWempe
+職	軄kLau,kMatthews
+聻	魙kMeyerWempe
+聽	听kLau,kMatthews
+肆	四kLau
+肇	肈kLau,kMatthews
+肈	肇kLau,kMatthews
+肐	胳kMatthews 𩨘kFenn
+肕	韌kLau
+股	𦙶kLau,kMeyerWempe
+肢	胑kMatthews
+肧	胚kMatthews,kMeyerWempe
+肨	胮kMatthews
+肬	疣kMatthews
+肱	厷kMatthews,kMeyerWempe
+育	毓kMatthews
+肳	吻kMatthews,kMeyerWempe
+肴	餚kLau
+胄	伷kMatthews 冑kFenn
+胆	膽kLau,kMatthews,kMeyerWempe
+胑	肢kMatthews
+胓	𦚓
+胔	骴kMatthews
+胗	疹kMatthews
+胚	肧kMatthews,kMeyerWempe
+胭	臙kLau,kMatthews
+胮	肨kMatthews
+胯	骻kMeyerWempe
+胳	肐kMatthews 𩨘kFenn
+胷	匈kLau,kMatthews 胸kLau,kMatthews
+胸	匈kLau,kMatthews,kMeyerWempe 胷kLau,kMatthews
+脃	脆kMatthews,kMeyerWempe
+脅	脇kMatthews
+脆	脃kMatthews,kMeyerWempe
+脇	脅kMatthews
+脈	衇kLau,kMatthews 脉kLau,kMatthews,kMeyerWempe
+脉	䘑kMeyerWempe 脈kLau,kMatthews,kMeyerWempe 衇kLau,kMatthews
+脚	腳kLau,kMatthews,kMeyerWempe
+脣	唇kHKGlyph,kLau,kMatthews,kMeyerWempe
+脪	㾙kMatthews
+脹	痮kMatthews
+腊	臈kLau,kMatthews 臘kLau,kMatthews
+腕	𦙵kFenn
+腢	髃kMatthews
+腦	匘kMatthews
+腫	尰kMatthews
+腭	齶kLau,kMatthews
+腮	顋kLau,kMatthews,kMeyerWempe
+腳	脚kLau,kMatthews,kMeyerWempe
+腿	骽kMatthews
+膆	嗉kMatthews
+膋	膫kMatthews,kMeyerWempe
+膫	膋kMatthews,kMeyerWempe
+膳	饍kLau,kMatthews
+膽	胆kLau,kMatthews,kMeyerWempe
+膾	鱠kMatthews
+臇	𤎱kFenn
+臈	腊kLau,kMatthews 臘kLau,kMatthews
+臊	𦞣kHanYu:T
+臏	髕kMatthews,kMeyerWempe
+臘	腊kLau,kMatthews 臈kLau,kMatthews
+臙	胭kLau,kMatthews
+臞	癯kMeyerWempe
+臥	卧kHKGlyph
+臯	皋kMatthews
+臺	台kHKGlyph,kLau
+舀	抌kMatthews
+與	与kMatthews,kMeyerWempe
+興	㒷kLau,kMatthews
+舉	㪯kFenn 擧kHKGlyph
+舊	旧kMatthews,kMeyerWempe
+舐	舓kLau,kMatthews,kMeyerWempe
+舓	舐kLau,kMatthews,kMeyerWempe
+舔	餂kFenn
+舖	鋪kLau
+舘	館kMatthews,kMeyerWempe
+舡	船kMeyerWempe
+舦	艜kMeyerWempe
+舵	柁kMeyerWempe
+船	舡kMeyerWempe
+艜	舦kMeyerWempe
+艢	檣kMatthews
+艥	楫kMatthews 檝kMatthews
+艪	樐kMatthews 櫓kLau,kMatthews
+艶	豓kMatthews 豔kHKGlyph,kLau,kMatthews
+艸	草kMatthews 艹kMatthews
+艹	艸kMatthews 草kMatthews
+芒	杧kLau
+芔	卉kMatthews
+芟	𠚹kMeyerWempe
+芦	蘆kFenn
+花	蘤kLau
+芻	蒭kMatthews,kMeyerWempe 𦷝
+苕	䒒kMatthews
+苟	茍kMatthews
+苡	苢kMatthews
+苢	苡kMatthews
+苤	瞥kMatthews
+苺	莓kMatthews
+茍	苟kMatthews
+茠	薅kMatthews
+茲	兹kMatthews 玆kMatthews
+荅	答kLau,kMeyerWempe
+荆	荊kMatthews
+荇	莕kMeyerWempe
+草	艸kMatthews 艹kMatthews
+荊	荆kMatthews
+荍	蕎kMatthews
+荐	薦kHKGlyph,kMeyerWempe
+荔	栛kMatthews
+荣	榮kMeyerWempe
+荳	豆kLau
+莀	農kMatthews
+莅	涖kMatthews 蒞kMatthews,kMeyerWempe
+莊	庄kLau
+莓	苺kMatthews
+莕	荇kMeyerWempe
+莜	蓧kMatthews,kMeyerWempe
+莿	朿kMatthews
+菇	菰kMeyerWempe
+菌	蕈kMatthews
+菑	災kFenn 灾kFenn 烖kFenn 甾kMatthews
+菓	果kFenn
+菔	蔔kMeyerWempe
+菢	勽kMatthews
+菫	堇kMatthews
+菰	菇kMeyerWempe
+菴	庵kHKGlyph,kMatthews
+菸	烟kFenn 煙
+萆	蓖kMatthews
+萬	万kLau,kMatthews,kMeyerWempe 卍kFenn
+萱	萲kMatthews
+萲	萱kMatthews
+葁	薑kMatthews
+著	着
+葚	椹kFenn
+葢	盖kFenn 蓋kLau,kMeyerWempe
+葬	塟kMatthews
+葯	藥kLau,kMatthews,kMeyerWempe
+葱	蔥kLau
+蒓	蓴kMatthews
+蒞	涖kMatthews 莅kMatthews,kMeyerWempe
+蒭	芻kMatthews,kMeyerWempe
+蒸	烝kFenn
+蓋	盖kLau,kMatthews,kMeyerWempe 葢kLau,kMeyerWempe
+蓖	萆kMatthews
+蓧	莜kMatthews,kMeyerWempe
+蓴	蒓kMatthews
+蓺	埶kMatthews 秇kMatthews 藝kLau,kMatthews
+蔔	菔kMeyerWempe
+蔚	嶎kMatthews
+蔥	葱kLau
+蔭	廕kMatthews
+蔴	麻
+蕈	菌kMatthews
+蕊	蕋kMatthews
+蕋	蕊kMatthews
+蕎	荍kMatthews
+蕢	簣kMeyerWempe 籄kMeyerWempe
+蕣	橓kMeyerWempe
+蕤	甤kMatthews
+蕩	偒 盪 蘯
+薅	茠kMatthews
+薑	葁kMatthews
+薟	蘞kMeyerWempe
+薦	荐kHKGlyph,kMeyerWempe
+薯	藷kLau,kMatthews,kMeyerWempe
+藇	𨣦kMeyerWempe
+藉	耤kMatthews
+藝	埶kMatthews 秇kMatthews 蓺kLau,kMatthews
+藟	蘽kMeyerWempe
+藤	籐kLau,kMatthews,kMeyerWempe
+藥	葯kLau,kMatthews,kMeyerWempe
+藦	蘑kFenn
+藷	薯kLau,kMatthews,kMeyerWempe
+蘆	芦kFenn
+蘑	藦kFenn
+蘖	櫱kMatthews
+蘞	薟kMeyerWempe
+蘤	花kLau
+蘯	盪 蕩
+蘽	藟kMeyerWempe
+虐	䖈kHanYu
+虓	唬kMeyerWempe 猇kMatthews,kMeyerWempe
+虔	䖍kMatthews
+處	䖏kMatthews 処kMatthews
+虜	擄kLau,kMatthews,kMeyerWempe
+虞	𩦢kMeyerWempe
+號	号kLau,kMatthews
+虣	暴kMatthews
+虫	蟲kMeyerWempe
+虬	蚪kMeyerWempe 虯kMatthews
+虯	虬kMatthews
+虱	蝨kMatthews,kMeyerWempe
+蚊	蟁kMatthews
+蚋	蜹kMatthews
+蚓	螾kMatthews,kMeyerWempe
+蚕	蠶kMatthews,kMeyerWempe
+蚘	痐kMeyerWempe 蛔kMatthews 蛕kMatthews
+蚝	螆kMatthews
+蚤	䖣kLau,kMatthews
+蚦	蚺kMatthews
+蚪	虬kMeyerWempe
+蚺	蚦kMatthews
+蛄	蛌kMatthews
+蛆	𧐅kMeyerWempe
+蛋	蜑kLau,kMatthews
+蛌	蛄kMatthews
+蛓	螆kMeyerWempe
+蛔	蚘kMatthews 蛕kMatthews,kMeyerWempe
+蛕	蚘kMatthews 蛔kMatthews,kMeyerWempe
+蛗	𧌓kHanYu
+蛙	鼃kMatthews,kMeyerWempe
+蛛	鼄kMatthews
+蜂	蠭kMatthews,kMeyerWempe
+蜇	𧋍kFenn
+蜋	螂kMatthews
+蜍	蠩kMatthews
+蜑	蛋kLau,kMatthews
+蜝	蜞kMeyerWempe
+蜞	蜝kMeyerWempe
+蜡	䄍kMeyerWempe 蠟kLau,kMatthews
+蜨	蝶kMatthews
+蜫	䖵kMatthews
+蜶	蟀kMeyerWempe
+蜹	蚋kMatthews
+蝃	螮kMeyerWempe
+蝇	蠅kMeyerWempe
+蝎	蠍kMeyerWempe
+蝟	猬kMatthews,kMeyerWempe
+蝥	蟊kMatthews,kMeyerWempe
+蝦	鰕kMeyerWempe
+蝨	虱kMatthews,kMeyerWempe
+蝯	猨kMatthews,kMeyerWempe 猿kMatthews,kMeyerWempe
+蝱	䖟kMatthews
+蝶	蜨kMatthews
+螂	蜋kMatthews
+螆	蚝kMatthews 蛓kMeyerWempe
+融	螎kMeyerWempe
+螎	融kMeyerWempe
+螗	螳kMeyerWempe
+螘	蟻kLau
+螙	蠧kMatthews
+螮	蝃kMeyerWempe
+螳	螗kMeyerWempe
+螺	蠃kMeyerWempe
+螾	蚓kMatthews,kMeyerWempe
+蟀	蜶kMeyerWempe
+蟁	蚊kMatthews
+蟊	蝥kMatthews,kMeyerWempe
+蟚	蟛kLau
+蟛	蟚kLau
+蟮	蟺kMatthews
+蟲	虫kMeyerWempe
+蟹	蠏kLau
+蟺	蟮kMatthews
+蟻	螘kLau
+蠃	螺kMeyerWempe
+蠅	蝇kMeyerWempe
+蠍	蝎kMeyerWempe
+蠏	蟹kLau
+蠔	𧐢kMeyerWempe
+蠟	蜡kLau,kMatthews
+蠧	螙kMatthews
+蠩	蜍kMatthews
+蠭	蜂kMatthews,kMeyerWempe
+蠶	蚕kMatthews,kMeyerWempe
+衂	衄kMatthews
+衄	衂kMatthews
+衅	釁kMatthews,kMeyerWempe
+衆	眾kLau,kMatthews 𠂝kFenn
+衇	脈kLau,kMatthews 脉kLau,kMatthews
+衛	衞kLau,kMatthews
+衝	𧘂kFenn
+衞	衛kLau,kMatthews
+衣	衤kMatthews
+衤	衣kMatthews
+衮	袞kMatthews
+衽	袵kMatthews,kMeyerWempe
+衿	紟kFenn 襟kMatthews
+袋	帒kLau,kMatthews
+袒	襢kLau,kMatthews
+袜	襪kLau
+袞	衮kMatthews
+袠	帙kMatthews
+袴	絝kLau,kMatthews 褲kLau,kMatthews,kMeyerWempe
+袵	衽kMatthews,kMeyerWempe
+袷	裌kMatthews,kMeyerWempe
+裉	褃kFenn
+裌	袷kMatthews,kMeyerWempe
+裏	裡kHKGlyph,kLau,kMatthews
+裙	帬kMatthews 裠kFenn
+裠	裙kFenn
+裡	裏kHKGlyph,kLau,kMatthews
+裸	躶kLau,kMatthews
+褃	裉kFenn
+褎	褏kMatthews
+褏	褎kMatthews
+褒	襃kHKGlyph,kLau,kMatthews
+褓	緥kMatthews
+褟	溻kFenn
+褢	褱kMatthews
+褧	絅kMatthews,kMeyerWempe
+褱	褢kMatthews
+褲	絝kLau,kMatthews 袴kLau,kMatthews,kMeyerWempe
+褵	縭kMeyerWempe
+褺	䙝kMatthews 褻kMatthews
+褻	䙝kLau,kMatthews 褺kMatthews
+襁	繈kMatthews,kMeyerWempe 繦kMatthews
+襃	褒kHKGlyph,kLau,kMatthews
+襄	㐮
+襍	雜kMatthews
+襖	澳kMatthews 𥜌kMatthews
+襜	襝kMeyerWempe
+襝	襜kMeyerWempe
+襟	衿kMatthews
+襢	袒kLau,kMatthews
+襪	袜kLau 韤kMatthews 韈kMatthews
+襮	幞kMeyerWempe
+襯	儭kMatthews
+覇	霸kMeyerWempe
+覊	羈kMatthews
+覌	觀kMatthews
+覐	覺kMatthews
+覓	覔kMatthews
+覔	覓kMatthews
+視	眎kMatthews
+覘	䦓kMeyerWempe 𦕒kMeyerWempe
+覥	靦kMeyerWempe
+覩	睹kMatthews,kMeyerWempe
+覰	覷kMatthews,kMeyerWempe
+覷	覰kMatthews,kMeyerWempe
+覺	覐kMatthews
+觀	覌kMatthews
+觔	斤kLau,kMatthews,kMeyerWempe
+觕	粗kMatthews 麄kMatthews 麤kMatthews
+觜	咀kLau 嘴kLau
+觝	牴kMatthews,kMeyerWempe
+解	觧kLau,kMatthews
+觥	觵kMatthews,kMeyerWempe
+觧	解kLau,kMatthews
+觵	觥kMatthews,kMeyerWempe
+訇	渹kMeyerWempe 𢕐kMeyerWempe
+託	侂kMatthews
+訛	譌kHKGlyph,kMatthews,kMeyerWempe
+訠	矧kMatthews,kMeyerWempe
+訥	吶kLau,kMatthews
+訦	諶kMatthews,kMeyerWempe
+訩	詾kMatthews
+訴	愬kMatthews
+証	證kLau,kMatthews,kMeyerWempe
+訽	詬kMatthews
+詋	呪kFenn
+詠	咏kMatthews,kMeyerWempe
+詤	謊kMatthews
+詧	察kMatthews,kMeyerWempe
+詬	訽kMatthews
+話	䛡kMatthews
+詵	侁kMeyerWempe 駪kMeyerWempe
+詾	訩kMatthews
+誇	夸kMeyerWempe
+誐	哦kMeyerWempe
+誕	𧩙kLau,kMeyerWempe
+誘	䛻kMatthews
+誚	譙kFenn
+誤	悞kLau
+誩	競kMatthews
+諁	啜kMeyerWempe
+談	譚kLau
+諉	餵kLau
+諊	鞫kMatthews,kMeyerWempe
+諕	唬kMatthews
+諠	喧kMeyerWempe
+諡	謚kMatthews
+諤	讍kMatthews
+諧	龤kMatthews
+諮	咨kMatthews,kMeyerWempe 嗞kMatthews,kMeyerWempe
+諵	喃kLau,kMatthews,kMeyerWempe
+諶	訦kMatthews,kMeyerWempe
+謊	詤kMatthews
+謌	歌kLau,kMatthews
+謚	諡kMatthews
+謫	讁kMatthews
+謱	嘍kMeyerWempe
+譁	嘩kLau,kMatthews,kMeyerWempe
+譈	憝kMatthews,kMeyerWempe 懟kMatthews
+證	証kLau,kMatthews,kMeyerWempe
+譌	訛kHKGlyph,kMatthews,kMeyerWempe
+譎	憰kMatthews
+譐	噂kMeyerWempe
+譙	誚kFenn
+譚	談kLau
+譟	噪kLau
+警	儆kMatthews,kMeyerWempe
+譭	䛼kMatthews,kMeyerWempe
+讁	謫kMatthews
+變	变kMatthews,kMeyerWempe 変kHanyu:T
+讌	宴kLau,kMatthews
+讍	諤kMatthews
+讎	仇kMeyerWempe 讐kMatthews,kMeyerWempe
+讐	仇kLau,kMeyerWempe 讎kMatthews,kMeyerWempe
+讘	囁kMeyerWempe
+谿	嵠kMeyerWempe
+豆	荳kLau
+豇	䜶kMatthews
+豋	登kFenn
+豎	竪kLau,kMatthews
+豓	艶kMatthews 豔kMatthews
+豔	艶kHKGlyph,kLau,kMatthews 豓kMatthews
+豘	豚kMatthews,kMeyerWempe
+豚	豘kMatthews,kMeyerWempe
+豜	豣kMatthews
+豝	羓kMeyerWempe
+豣	豜kMatthews
+豫	預kLau,kMatthews,kMeyerWempe
+豬	猪kLau,kMatthews,kMeyerWempe
+豳	㟗kMatthews 邠kMatthews
+豴	蹢kMeyerWempe
+豵	䝋kMatthews,kMeyerWempe
+豸	廌kMatthews
+豺	犲kMatthews
+豻	犴kMatthews,kMeyerWempe
+貌	皃kFenn
+貍	狸kHKGlyph,kMatthews,kMeyerWempe
+貎	皃kMatthews
+貓	猫kLau,kMatthews,kMeyerWempe
+貛	獾kMatthews
+財	㒲kMatthews
+販	𧶶kFenn
+貭	質kMatthews
+貳	二kMeyerWempe 弍kMeyerWempe
+賅	侅kMatthews,kMeyerWempe
+賍	贓kLau,kMatthews,kMeyerWempe 贜kFenn
+賓	賔kMatthews
+賔	賓kMatthews
+賛	贊kLau,kMatthews
+賢	贒kMatthews
+質	貭kMatthews
+賫	齎kMatthews
+賬	帳kLau
+賮	贐kMatthews
+賴	頼kLau,kMatthews,kMeyerWempe
+賸	剩kLau,kMatthews
+賺	贃kLau,kMatthews
+贃	賺kLau,kMatthews 𧸖kFenn
+贊	賛kLau,kMatthews
+贋	偐kMatthews 贗kMatthews
+贐	賮kMatthews
+贒	賢kMatthews
+贓	賍kLau,kMatthews,kMeyerWempe 贜kFenn
+贗	偐kMatthews 贋kMatthews
+贜	賍kFenn 贓kFenn
+赤	𤆍kFenn
+赬	䞓kMeyerWempe
+赶	趕kLau,kMatthews,kMeyerWempe
+趁	趂kMatthews
+趂	趁kMatthews
+趄	跙kMatthews
+趋	趨kMatthews
+趒	跳kMatthews,kMeyerWempe
+趕	赶kLau,kMatthews,kMeyerWempe
+趨	趋kMatthews
+趮	躁kMatthews,kMeyerWempe
+趯	躍kMatthews
+跖	蹠kMeyerWempe
+跙	趄kMatthews
+跡	蹟kHKGlyph,kLau,kMatthews,kMeyerWempe 迹kHKGlyph,kLau,kMatthews,kMeyerWempe
+跥	跺kMatthews
+跳	趒kMatthews,kMeyerWempe
+跴	踹kMatthews
+跺	跥kMatthews
+踁	硜kMeyerWempe
+踊	踴kLau,kMatthews
+踏	蹋kMeyerWempe
+踪	蹤kHKGlyph,kLau,kMatthews,kMeyerWempe
+踭	㬹kMeyerWempe
+踰	逾kMatthews,kMeyerWempe
+踴	踊kLau,kMatthews
+踵	歱kFenn
+踹	跴kMatthews
+踽	偊kMatthews,kMeyerWempe
+蹄	蹏kLau,kMatthews
+蹋	踏kMeyerWempe 蹹kMatthews
+蹌	牄kMatthews
+蹏	蹄kLau,kMatthews
+蹝	屣kMatthews 躧kMatthews
+蹟	跡kHKGlyph,kLau,kMatthews,kMeyerWempe 迹kHKGlyph,kLau,kMatthews,kMeyerWempe
+蹠	跖kMeyerWempe
+蹢	豴kMeyerWempe
+蹤	踪kHKGlyph,kLau,kMatthews,kMeyerWempe
+蹧	遭kLau,kMatthews
+蹮	躚kMeyerWempe
+蹴	蹵kMatthews,kMeyerWempe
+蹵	蹴kMatthews,kMeyerWempe
+蹹	蹋kMatthews
+蹺	蹻kMatthews,kMeyerWempe
+蹻	蹺kMatthews,kMeyerWempe
+躁	趮kMatthews,kMeyerWempe
+躅	䠱kMatthews
+躋	隮kMatthews,kMeyerWempe
+躍	趯kMatthews
+躗	躛kMatthews
+躚	蹮kMeyerWempe
+躛	躗kMatthews
+躧	屣kMatthews 蹝kMatthews
+躬	躳kMatthews,kMeyerWempe
+躭	眈kMatthews
+躱	躲kMatthews
+躲	躱kMatthews
+躳	躬kMatthews,kMeyerWempe
+躶	裸kLau,kMatthews
+躷	矮kMatthews,kMeyerWempe
+軄	職kLau,kMatthews
+軆	体kFenn
+軟	輭kHKGlyph,kLau,kMatthews,kMeyerWempe
+軰	輩kMatthews,kMeyerWempe
+軺	𨍳kMeyerWempe
+輒	輙kMatthews
+輙	輒kMatthews
+輝	煇kFenn
+輩	軰kMatthews,kMeyerWempe
+輭	軟kHKGlyph,kLau,kMatthews,kMeyerWempe
+輵	轕kMatthews
+輿	轝kMatthews
+轄	鎋kMatthews
+轆	樚kMatthews
+轕	輵kMatthews
+轗	㙳kMeyerWempe
+轝	輿kMatthews
+辞	辤kMatthews 辭kMatthews
+辠	罪kLau,kMatthews
+辢	辣kLau,kMatthews,kMeyerWempe
+辣	辢kLau,kMatthews,kMeyerWempe
+辤	辞kMatthews 辭kLau,kMatthews
+辦	办kFenn
+辨	辯kMeyerWempe
+辭	辞kMatthews 辤kLau,kMatthews
+辯	辨kMeyerWempe
+農	莀kMatthews
+辵	辶kMatthews
+辶	辵kMatthews
+边	邊kMatthews,kMeyerWempe
+迁	遷kMatthews,kMeyerWempe
+过	過kLau,kMatthews,kMeyerWempe
+迊	匝kMatthews 帀kMatthews
+迕	忤kMeyerWempe
+还	還kMatthews
+这	這kLau,kMatthews
+迨	逮kLau,kMatthews
+迩	邇kMatthews
+迪	廸kMatthews
+迫	廹kMatthews,kMeyerWempe
+迯	逃kMatthews
+迴	廻kLau,kMatthews
+迹	跡kHKGlyph,kLau,kMatthews,kMeyerWempe 蹟kHKGlyph,kLau,kMatthews,kMeyerWempe
+迺	乃kMatthews 廼kMatthews
+迻	移kMatthews
+逃	迯kMatthews
+逓	遞kMatthews
+逖	逷kMatthews
+這	这kLau,kMatthews
+逮	迨kLau,kMatthews
+週	周kLau
+逷	逖kMatthews
+逼	偪kMatthews,kMeyerWempe
+逾	踰kMatthews,kMeyerWempe
+遍	徧kMatthews,kMeyerWempe
+過	过kLau,kMatthews,kMeyerWempe
+遜	愻kFenn
+遞	逓kMatthews
+遡	泝kMatthews 溯kMeyerWempe
+遭	蹧kLau,kMatthews
+遶	繞kMatthews,kMeyerWempe
+遷	迁kMatthews,kMeyerWempe
+還	还kMatthews
+邅	㣶kMeyerWempe
+邇	迩kMatthews
+邊	边kMatthews,kMeyerWempe
+邕	雍kMatthews,kMeyerWempe 𪪝kMatthews 
+邠	㟗kMatthews 豳kMatthews
+邨	村kHKGlyph,kLau,kMatthews
+郁	喐kMeyerWempe
+郄	郤kMatthews
+郤	郄kMatthews
+郰	鄹kMatthews,kMeyerWempe
+郷	鄉kMatthews
+鄉	郷kMatthews 鄕kMatthews
+鄔	塢kMeyerWempe
+鄕	鄉kMatthews
+鄰	隣kLau,kMatthews,kMeyerWempe
+鄹	郰kMatthews,kMeyerWempe
+酖	鴆kMatthews,kMeyerWempe
+酧	酬kMatthews 醻kFenn
+酬	酧kMatthews 醻kFenn
+醇	䣩kLau,kMatthews,kMeyerWempe
+醊	餟kMatthews
+醡	榨kMatthews
+醩	糟kMatthews
+醫	医kMatthews
+醻	酧kFenn 酬kFenn
+釁	衅kMatthews,kMeyerWempe
+野	埜kLau,kMatthews
+釐	厘kLau,kMatthews,kMeyerWempe
+金	釒kMatthews
+釒	金kMatthews
+針	箴kMeyerWempe 鍼kLau,kMatthews,kMeyerWempe
+釬	銲kMatthews
+鈀	耙kMatthews
+鈆	鉛kMatthews
+鈎	鉤kHKGlyph,kLau,kMatthews
+鈞	銁kMatthews,kMeyerWempe
+鉄	鐵kLau,kMatthews,kMeyerWempe 銕kMatthews
+鉆	鉗kPhonetic 鑽kPhonetic
+鉈	砣kMatthews 𥓿kFenn
+鉋	刨kMatthews
+鉏	鋤kLau,kMatthews,kMeyerWempe
+鉗	鉆kPhonetic
+鉛	鈆kMatthews
+鉞	戉kMatthews,kMeyerWempe
+鉢	缽kHKGlyph
+鉤	鈎kHKGlyph,kLau,kMatthews
+銁	鈞kMatthews,kMeyerWempe
+銕	鉄kMatthews 鐵kMatthews
+銜	㘅kMeyerWempe
+銲	釬kMatthews
+銹	鏽kFenn
+鋑	鐫kMatthews 鑴kMatthews
+鋤	鉏kLau,kMatthews,kMeyerWempe
+鋪	舖kLau
+錘	鎚kLau,kMeyerWempe
+鍉	匙kMatthews
+鍛	煅kLau,kMatthews
+鍜	煆kMeyerWempe
+鍫	鍬kMeyerWempe
+鍬	鍫kMeyerWempe
+鍰	鐶kMatthews
+鍼	箴kMeyerWempe 針kLau,kMatthews,kMeyerWempe
+鎋	轄kMatthews
+鎌	鐮kLau,kMatthews,kMeyerWempe
+鎏	鏐kMeyerWempe
+鎒	耨kMatthews
+鎔	熔kLau,kMatthews
+鎖	鏁kMeyerWempe 鎻kMatthews
+鎙	槊kMeyerWempe
+鎚	錘kLau,kMeyerWempe
+鎻	鎖kMatthews
+鏁	鎖kMeyerWempe
+鏐	鎏kMeyerWempe
+鏢	鑣kLau
+鏥	銹kMatthews 鏽kMatthews
+鏰	斆kMatthews
+鏽	銹kFenn
+鏾	𠜎kMeyerWempe
+鐀	匱kMatthews 櫃kMatthews
+鐫	鋑kMatthews 鑴kMatthews
+鐮	鎌kLau,kMatthews,kMeyerWempe
+鐵	鉄kLau,kMatthews,kMeyerWempe 銕kMatthews
+鐶	鍰kMatthews
+鑑	鑒kHKGlyph,kMatthews,kMeyerWempe
+鑒	鑑kHKGlyph,kMatthews,kMeyerWempe
+鑚	鑽kMatthews
+鑛	礦kLau,kMatthews,kMeyerWempe
+鑢	䥨kMatthews,kMeyerWempe
+鑣	鏢kLau
+鑴	鋑kMatthews 鐫kMatthews
+鑽	鉆kPhonetic 鑚kMatthews
+門	门kMeyerWempe
+閆	閻kMatthews
+閙	鬧kLau,kMatthews,kMeyerWempe
+関	闗kMatthews 關kMatthews 𨶹kLau
+閧	鬨kMatthews
+閹	剦kLau,kMatthews,kMeyerWempe
+閻	閆kMatthews
+闊	濶kLau,kMatthews,kMeyerWempe
+闗	関kMatthews 關kMatthews,kMeyerWempe
+關	寡kLau 関kMatthews 闗kMatthews,kMeyerWempe
+门	門kMeyerWempe
+阜	阝kMatthews
+阝	阜kMatthews
+阡	仟kFenn
+阧	陡kMatthews
+阨	阸kMatthews
+阬	坑kMatthews
+阱	穽kMatthews,kMeyerWempe
+阳	氜kFenn 陽kMatthews
+阴	陰kMatthews
+阸	阨kMatthews
+陀	陁kMatthews
+陁	陀kMatthews
+降	夅kMatthews
+陗	峭kMatthews,kMeyerWempe
+陜	狹kFenn
+陡	阧kMatthews
+陣	𨸬kLau
+陰	阴kMatthews 隂kLau,kMatthews,kMeyerWempe
+陶	匋kLau,kMatthews
+陻	垔kMatthews,kMeyerWempe 堙kMatthews,kMeyerWempe
+陼	渚kMatthews,kMeyerWempe
+陽	氜kMatthews 阳kMatthews
+隂	陰kLau,kMatthews,kMeyerWempe
+隄	堤kMeyerWempe
+隈	渨kMatthews,kMeyerWempe
+隍	堭kMatthews
+階	堦kMatthews
+隐	隠kFenn
+隕	磒kLau,kMatthews,kMeyerWempe
+隖	塢kMatthews
+隝	塢kLau
+隠	隐kFenn
+隣	鄰kLau,kMatthews,kMeyerWempe
+隤	墤kMatthews,kMeyerWempe
+隧	𡑞kLau,kMeyerWempe
+隩	𡒃kMeyerWempe
+隮	躋kMatthews,kMeyerWempe
+隱	乚kMatthews
+隲	騭kMatthews,kMeyerWempe
+隷	隸kMatthews,kMeyerWempe
+隸	隷kMatthews,kMeyerWempe
+隼	鶽kMatthews 鵻kMeyerWempe
+隽	雋kMatthews
+难	難kLau,kMatthews
+雁	鴈kLau,kMatthews,kMeyerWempe
+集	亼kLau,kMatthews
+雇	僱kLau,kMeyerWempe
+雋	隽kMatthews
+雍	邕kMatthews,kMeyerWempe 𪪝kMatthews 
+雕	㓮kLau,kMatthews 彫kLau,kMatthews,kMeyerWempe
+雙	双kMatthews
+雛	鶵kMatthews,kMeyerWempe
+雜	襍kMatthews
+雝	簌kCowles 
+雞	鷄kLau,kMatthews 鳮kFenn
+難	难kLau,kMatthews
+雱	霶kMeyerWempe
+霜	孀kLau
+霡	霢kMatthews
+霢	霡kMatthews
+霥	濛kMeyerWempe
+霰	䨘kMatthews,kMeyerWempe
+霶	雱kMeyerWempe
+霸	覇kMeyerWempe
+靀	濛kMatthews
+靈	灵kFenn
+靝	天kMatthews
+靦	覥kMeyerWempe
+靧	頮kMatthews
+靭	韌kHKGlyph,kMatthews
+靴	鞾kMatthews
+鞀	鼗kMatthews 鞉kMatthews
+鞉	鞀kMatthews 鼗kMatthews,kMeyerWempe
+鞋	鞵kMatthews 𩋘kMeyerWempe
+鞘	韒kFenn
+鞙	琄kMeyerWempe
+鞟	鞹kMatthews,kMeyerWempe
+鞦	鞧kLau
+鞧	鞦kLau
+鞫	諊kMatthews,kMeyerWempe
+鞲	韝kMatthews
+鞴	絥kMatthews
+鞵	鞋kMatthews
+鞹	鞟kMatthews,kMeyerWempe
+鞽	橇kFenn
+鞾	靴kMatthews
+韁	繮kLau,kMatthews
+韂	䩞kMatthews
+韈	襪kMatthews 韤kMatthews
+韌	肕kLau 靭kHKGlyph,kMatthews
+韒	鞘kFenn
+韜	弢kLau,kMatthews,kMeyerWempe
+韝	鞲kMatthews
+韤	襪kMatthews 韈kMatthews
+韭	韮kLau,kMatthews
+韮	韭kLau,kMatthews
+韵	韻kHKGlyph,kLau,kMatthews,kMeyerWempe
+韻	韵kHKGlyph,kLau,kMatthews,kMeyerWempe
+響	响kMatthews
+頂	𩠑kFenn
+須	湏kMatthews
+頋	顧kLau,kMatthews
+預	豫kLau,kMatthews,kMeyerWempe
+頟	額kMatthews,kMeyerWempe
+頣	頤kMatthews
+頤	頣kMatthews
+頫	俯kMatthews
+頮	靧kMatthews
+頴	穎kMatthews
+頼	賴kLau,kMatthews,kMeyerWempe
+顋	腮kLau,kMatthews,kMeyerWempe
+額	頟kMatthews,kMeyerWempe
+顕	顯kMatthews,kMeyerWempe
+顖	囟kMatthews
+願	愿kFenn
+類	𩔗kLau,kMeyerWempe
+顥	皓kMatthews 皝kMatthews
+顦	憔kMatthews,kMeyerWempe
+顧	頋kLau,kMatthews
+顯	顕kMatthews,kMeyerWempe
+顰	嚬kMatthews
+顱	髗kMatthews
+颮	猋kMatthews 飇kMatthews,kMeyerWempe
+颼	䬒kMatthews,kMeyerWempe
+飇	猋kMatthews 颮kMatthews,kMeyerWempe
+食	飠kMatthews
+飠	食kMatthews
+飡	餐kMatthews,kMeyerWempe
+飢	饑kLau,kMatthews,kMeyerWempe
+飤	飼kMatthews,kMeyerWempe
+飦	饘kMatthews,kMeyerWempe
+飪	䏕kMatthews
+飫	饇kMatthews
+飼	飤kMatthews,kMeyerWempe
+飾	餙kMatthews,kMeyerWempe
+餂	舔kFenn
+餅	餠kMatthews
+餉	饟kMeyerWempe
+餐	飡kMatthews,kMeyerWempe
+餒	餧kMatthews
+餙	飾kMatthews,kMeyerWempe
+餚	肴kLau
+餛	餫kMatthews,kMeyerWempe
+餜	䴹kMatthews
+餟	醊kMatthews
+餠	餅kMatthews
+餧	喂kFenn 餒kMatthews
+館	舘kMatthews,kMeyerWempe
+餫	餛kMatthews,kMeyerWempe
+餱	糇kMatthews,kMeyerWempe
+餵	諉kLau
+餹	糖kMatthews
+餻	糕kLau,kMatthews,kMeyerWempe
+餽	饋kFenn
+饇	飫kMatthews
+饈	𦟤kFenn
+饊	糤kMeyerWempe
+饋	匱kLau 櫃kLau 餽kFenn
+饌	䉵kMatthews 籑kMatthews
+饍	膳kLau,kMatthews
+饑	飢kLau,kMatthews,kMeyerWempe
+饕	叨kMeyerWempe
+饘	飦kMatthews,kMeyerWempe
+饞	嚵kMatthews,kMeyerWempe
+饟	餉kMeyerWempe
+馘	聝kMatthews,kMeyerWempe
+馚	馩kMatthews
+馩	馚kMatthews
+馭	御kMatthews
+馱	䭾kFenn
+馿	驢kMatthews
+駁	駮kMatthews,kMeyerWempe
+駛	𩢲kMeyerWempe
+駢	騈kMatthews
+駦	騰kLau,kMatthews,kMeyerWempe
+駪	侁kMatthews,kMeyerWempe 詵kMeyerWempe
+駮	駁kMatthews,kMeyerWempe
+騈	駢kMatthews
+騌	騣kMatthews
+騐	驗kMatthews,kMeyerWempe
+騗	騙kMatthews
+騘	驄kMatthews
+騙	騗kMatthews
+騣	騌kMatthews
+騭	隲kMatthews,kMeyerWempe
+騰	駦kLau,kMatthews,kMeyerWempe
+騾	驘kMatthews,kMeyerWempe
+驄	騘kMatthews
+驅	敺kLau,kMatthews
+驊	𦽊kMeyerWempe
+驗	騐kMatthews,kMeyerWempe
+驘	騾kMatthews,kMeyerWempe
+驢	馿kMatthews
+骴	胔kMatthews 𦙼kMeyerWempe
+骻	胯kMeyerWempe
+骽	腿kMatthews
+骾	挭kMatthews 鯁kMatthews
+髃	腢kMatthews
+體	体kMatthews
+髕	臏kMatthews,kMeyerWempe
+髗	顱kMatthews
+高	髙kFenn
+髙	高kFenn
+髣	彷kMatthews,kMeyerWempe
+髻	䯻kLau
+髼	鬅kMeyerWempe
+鬀	剃kLau,kMatthews,kMeyerWempe
+鬂	鬢kMatthews
+鬅	髼kMeyerWempe
+鬒	㐱kMatthews
+鬓	𩯭kMeyerWempe
+鬢	鬂kMatthews
+鬣	巤kMatthews,kMeyerWempe
+鬥	鬭kLau,kMatthews,kMeyerWempe 鬬kMatthews 鬦kLau,kMeyerWempe 鬪kLau,kMatthews
+鬦	鬥kLau,kMeyerWempe
+鬧	閙kLau,kMatthews,kMeyerWempe
+鬨	閧kMatthews
+鬪	鬥kLau,kMatthews 鬬kFenn
+鬬	鬥kMatthews 鬪kFenn
+鬭	鬥kLau,kMatthews,kMeyerWempe
+鬮	䰗kFenn
+鬱	欝kMatthews,kMeyerWempe
+魏	巍kMeyerWempe
+魙	聻kMeyerWempe
+魟	鰩kMatthews
+魦	鯊kMatthews,kMeyerWempe
+魷	鰌kLau
+鮝	鯗kMatthews
+鮧	鯷kMatthews
+鮮	鱻kMatthews
+鯁	挭kMatthews 骾kMatthews
+鯊	魦kMatthews,kMeyerWempe
+鯗	鮝kMatthews
+鯧	䱽kLau,kMatthews,kMeyerWempe
+鯷	鮧kMatthews
+鰉	鱑kMatthews
+鰌	魷kLau 鰍kMatthews,kMeyerWempe
+鰍	鰌kMatthews,kMeyerWempe
+鰐	鱷kLau,kMatthews
+鰕	蝦kMeyerWempe
+鰩	魟kMatthews
+鰲	鼇kMatthews
+鱉	鼈kMatthews
+鱑	鰉kMatthews
+鱓	䱇kMatthews 鱔kMatthews,kMeyerWempe
+鱔	鱓kMatthews,kMeyerWempe
+鱠	膾kMatthews
+鱷	鰐kLau,kMatthews
+鱻	鮮kMatthews
+鳮	雞kFenn 鷄kFenn
+鴃	鵙kMatthews
+鴆	酖kMatthews,kMeyerWempe
+鴈	雁kLau,kMatthews,kMeyerWempe
+鴝	朐kMatthews 鸜kMatthews
+鴞	梟kFenn
+鴳	鷃kMatthews
+鴺	鵜kMatthews,kMeyerWempe
+鵙	鴃kMatthews
+鵜	鴺kMatthews,kMeyerWempe
+鵝	鵞kLau,kMeyerWempe
+鵞	鵝kLau,kMeyerWempe
+鵻	隼kMeyerWempe
+鶂	鶃kMatthews,kMeyerWempe
+鶃	鶂kMatthews,kMeyerWempe
+鶯	鸎kMatthews
+鶵	雛kMatthews,kMeyerWempe
+鶽	隼kMatthews
+鷃	鴳kMatthews
+鷄	雞kLau,kMatthews 鳮kFenn
+鷩	氅kFenn
+鸎	鶯kMatthews
+鸜	朐kMatthews 鴝kMatthews
+鹻	堿kFenn 碱kLau 鹼kLau,kMatthews,kMeyerWempe
+鹼	堿kFenn 碱kLau 鹻kLau,kMatthews,kMeyerWempe
+鹽	䀋kLau 塩kMatthews 𥂁kMeyerWempe
+麄	粗kMatthews 觕kMatthews 麤kMatthews
+麇	麕kMatthews,kMeyerWempe
+麐	麟kMatthews
+麕	麇kMatthews,kMeyerWempe
+麞	獐kMatthews
+麟	麐kMatthews
+麤	粗kMatthews 觕kMatthews 麄kMatthews
+麪	麵kMeyerWempe
+麫	麵kMatthews
+麯	麴kMatthews,kMeyerWempe
+麰	牟kMatthews
+麴	麯kMatthews,kMeyerWempe
+麵	麪kMeyerWempe 麫kMatthews
+麻	蔴kFenn
+麼	庅kMatthews 麽kHKGlyph,kLau
+麽	庅kFenn 麼kHKGlyph,kLau
+黏	粘kLau
+默	嘿kFenn 黙
+黙	默
+點	点kLau,kMatthews,kMeyerWempe
+鼃	蛙kMatthews,kMeyerWempe
+鼄	蛛kMatthews
+鼇	鰲kMatthews
+鼈	鱉kMatthews
+鼎	𪔂kFenn
+鼏	冪kMeyerWempe 幂kMeyerWempe
+鼓	皷kLau,kMatthews 鼔kLau,kMatthews
+鼔	皷kLau,kMatthews 鼓kLau,kMatthews
+鼗	鞀kMatthews 鞉kMatthews,kMeyerWempe
+齁	𪖙kFenn
+齅	嗅kMeyerWempe
+齊	亝kMatthews 斉kMatthews
+齋	斋kLau,kMatthews
+齎	賫kMatthews
+齦	啃kFenn
+齧	囓kLau,kMatthews
+齩	咬kLau,kMatthews
+齶	腭kLau,kMatthews
+龍	龒kHanYu:T
+龎	龐kLau
+龐	龎kLau
+龒	龍kHanYu
+龓	䪊kMatthews
+龝	秋kMatthews
+龠	籥
+龡	吹kMatthews
+龢	咊kLau,kMatthews 和kLau,kMatthews
+龤	諧kMatthews
+龥	籲kLau,kMatthews,kMeyerWempe
+鿌	涼
+益	益kMeyerWempe
+礼	礼kMatthews 禮kMatthews
+𠂝	眾kLau 衆kFenn
+𠂤	𣳨kLau
+𠆌	庸
+𠊧	併kFenn
+𠔃	兮kFenn
+𠕄	凹kLau
+𠖥	寵kFenn
+𠗦	憑kHanYu,kMeyerWempe
+𠚹	芟kMeyerWempe
+𠜎	鏾kMeyerWempe
+𠜼	掐kFenn
+𠞰	剿kFenn
+𠦌	卌kHanYu:T
+𠭴	㑁
+𠯗	咂kFenn
+𠱓	𠼮kMeyerWempe
+𠱘	𠸺kMeyerWempe
+𠲿	欶kFenn
+𠸺	𠱘kMeyerWempe
+𠼮	𠱓kMeyerWempe
+𡅈	嚹kMeyerWempe
+𡈙	囮kFenn
+𡑞	隧kLau,kMeyerWempe
+𡒃	隩kMeyerWempe
+𡚁	弊kFenn
+𡜱	嫉kFenn
+𡞾	嫩kMeyerWempe
+𡨴	寧kMeyerWempe
+𡱆	属kFenn 屬kFenn
+𡲕	屜kFenn
+𡻕	亗kFenn 岁kFenn 歲kLau,kMeyerWempe
+𢂑	拭kFenn
+𢅏	㡘 簾kLau
+𢅖	簾kMeyerWempe
+𢆞	䄯kFenn
+𢊍	㕑kLau 厨kLau
+𢐧	檠kMeyerWempe
+𢕐	渹kMeyerWempe 訇kMeyerWempe
+𢙢	恐kLau
+𢙱	㑝kMeyerWempe
+𢜫	惺kFenn
+𢠳	憋kMeyerWempe
+𢠵	惝kMeyerWempe
+𢥠	悚kLau,kMeyerWempe
+𢭆	抽kFenn
+𢯱	搜kHanYu
+𢰾	摠kLau 總kLau
+𢲷	搜kFenn
+𢳆	摮kMeyerWempe
+𢳜	漇kMeyerWempe
+𢶑	𢸣
+𢶣	㩹kMatthews
+𢸣	𢶑
+𣁚	𣁟kHanYu
+𣁟	𣁚kHanYu
+𣄈	㫎kHanYu:T
+𣇀	晡kHanYu:TZ
+𣉞	暠kMeyerWempe
+𣓌	槹kMeyerWempe
+𣔼	竿kLau
+𣳨	𠂤kLau
+𤆍	赤kFenn
+𤍠	熱kLau,kMeyerWempe
+𤎱	臇kFenn
+𤑕	熏
+𤕭	将kFenn 將
+𤕯	漿kFenn
+𤢕	斁kMeyerWempe
+𤢪	獵kTang
+𤧚	璁kMeyerWempe
+𤮨	礱kMeyerWempe
+𥁕	昷kFenn
+𥂁	鹽kMeyerWempe
+𥅾	䚎kMeyerWempe
+𥈟	瞍kHanYu,kMeyerWempe
+𥋟	䂀
+𥐘	石kHanYu
+𥐞	硭kMeyerWempe
+𥓿	砣kFenn 鉈kFenn
+𥔀	渹kMeterWempe 訇kMeyerWempe
+𥜌	澳kMatthews 襖kMatthews
+𥝢	利kLau
+𥥅	竉kMeyerWempe
+𥫱	囤kLau
+𥵚	竻kMeyerWempe
+𥻟	糯kLau
+𦀇	經kHanYu
+𦂳	緊kHanYu:TZ
+𦍩	羖kMeyerWempe
+𦕒	䦓kMeyerWempe 覘kMeyerWempe
+𦙵	腕kFenn
+𦙶	股kLau,kMeyerWempe
+𦙼	骴kMeyerWempe
+𦚓	胓
+𦞣	臊kHanYu:T
+𦟤	饈kFenn
+𦢌	殰kMeyerWempe
+𦤎	臯kMeyerWempe
+𦱄	菇kLau
+𦲷	蒞kLau
+𦷝	芻
+𦽊	驊kMeyerWempe
+𧋍	蜇kFenn
+𧌓	蛗kHanYu
+𧐅	蛆kMeyerWempe
+𧐢	蠔kMeyerWempe
+𧘂	衝kFenn
+𧙀	𧞪kMatthews
+𧞪	𧙀kMatthews
+𧩙	誕kLau,kMeyerWempe
+𧬨	噦kMeyerWempe
+𧰊	磌kMeyerWempe
+𧴯	孭kMeyerWempe
+𧶶	販kFenn
+𧸖	贃kFenn
+𧿹	拇kMeyerWempe
+𨃞	𨃟kFenn
+𨃟	𨃞kFenn
+𨈚	𨉉kMeyerWempe
+𨉉	𨈚kMeyerWempe
+𨍳	軺kMeyerWempe
+𨑒	徒kFenn
+𨢥	䤍
+𨣦	藇kMeyerWempe
+𨶹	関kLau
+𨸚	級kFenn
+𨸬	陣kLau
+𨻲	罅kFenn
+𩋘	鞋kMeyerWempe
+𩔗	類kLau,kMeyerWempe
+𩠑	頂kFenn
+𩢲	駛kMeyerWempe
+𩦢	虞kMeyerWempe
+𩨘	肐kFenn 胳kFenn
+𩯭	鬓kMeyerWempe
+𪔂	鼎kFenn
+𪖙	齁kFenn
+𪪝	邕kMatthews 雍kMatthews 雝kMatthews
+冗	冗kMeyerWempe
+灰	灰kFenn
+冒	冒kHKGlyph
