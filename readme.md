@@ -240,6 +240,9 @@ kMorohashi 數據。
 #### 唐音擬
 kTang 數據。
 
+#### 主要音
+kMandarin 數據。
+
 #### 四角
 衹有 GBK 的字。
 
