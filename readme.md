@@ -44,6 +44,9 @@ https://github.com/cjkvi/cjkvi-data/blob/master/cns2py.txt
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
 原爲 Excel 文件，轉爲 tsv 。
 
+#### Unicode新舊字形
+自行收集，還沒幾個字。
+
 ## 索引
 
 ### 古典類
