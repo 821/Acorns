@@ -45,7 +45,12 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
 原爲 Excel 文件，轉爲 tsv 。
 
 #### Unicode新舊字形
-自行收集，還沒幾個字。
+Unicode 中區分新舊字形的字。自行收集，還沒幾個字。
+
+#### 純簡化字
+也就是繁體中不存在的字。
+來源於 http://bbs.donglishuzhai.net/thread-723-1-1.html 中的已删削文字.txt 。本來衹是個繁體的大字符集五筆輸入法，不過作者用心的寫了文檔，省卻旁人許多工夫。
+retrieve date: 2015/12/03
 
 ## 索引
 
