@@ -49,8 +49,8 @@ Unicode 中區分新舊字形的字。自行收集，還沒幾個字。
 
 #### 純簡化字
 也就是繁體中不存在的字。
-來源於 http://bbs.donglishuzhai.net/thread-723-1-1.html 中的已删削文字.txt 。本來衹是個繁體的大字符集五筆輸入法，不過作者用心的寫了文檔，省卻旁人許多工夫。
-retrieve date: 2015/12/03
+最初來源於 http://bbs.donglishuzhai.net/thread-723-1-1.html 中的已删削文字.txt ， retrieve date: 2015/12/03 。本來衹是個繁體的大字符集五筆輸入法，不過作者用心的寫了文檔。
+然後利用「漢文博士」和被簡化的部件，繼續增加本表的字。
 
 ## 索引
 
