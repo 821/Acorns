@@ -1,56 +1,13 @@
 ## 注意
-本項目使用 GPL v3 協議。改編者請注意開源並使用相同協議。
-本人輕度執行 Apache 關於文檔的標準，卽，對修改的內容做出說明。索引的修正多記錄在 https://github.com/821/Acorns 中，此處主要記錄圖片的處理。
+本項目使用 GPL v3 協議，改編者請注意開源並使用相同協議。本人輕度執行 Apache 關於文檔的標準，卽，對修改的內容做出說明，改編者如能指明所修改的內容則最善。
 
 ## 說明
-Acorns 是個素材收集庫。這些素材的主要服務對象是製作輸入法和電子辭書。
-愛收集的人常被戲稱爲「松鼠症患者」，而松鼠最喜歡收集的莫過於橡實。這項目的名字就這麼出現了。
+Acorns 是個素材收集庫。這些素材的主要服務對象是製作輸入法和電子辭書，也收一些適合閒暇閱讀的文章。愛收集的人常被戲稱爲「松鼠症患者」，而松鼠最喜歡收集的莫過於橡實。這項目的名字就這麼出現了。
 基礎 retrieve date: 2015/06/22 。有不一樣的會再說明。
-這個項目最早放在 Google Code ，後來用了一段時間 Google Sites ，現在還是覺得 Github 較安心。
+由於本說明太長，有礙本人觀瞻，故將不那麼感興趣的說明放在另幾個 md 文件中。
 
 ## 字
-
-#### ids
-https://github.com/cjkvi/cjkvi-ids/blob/master/ids.txt
-http://kanji-database.sourceforge.net/ids/ids.html
-漢字拆解成部分，比如「明」拆成「日月」。
-問題很多，暫不整理。
-又，「[零時字引](https://github.com/g0v/z0y/)」就是用了這份材料。
-
-#### 部件檢索
-http://blog.xuite.net/fg_wang/twblog/309627490
-原爲 mdx ，通過 JavaScript 實現查詢，轉爲 tsv 。
-事實上也吸收了 ids.txt 的成果。
-
-#### 四角號碼
-http://bbs.unispim.com/forum.php?mod=viewthread&tid=31674
-原爲 chm 文件，轉爲 tsv 。
-
-#### 筆順
-https://github.com/rime/brise/blob/master/preset/stroke.dict.yaml
-114954 條數據，但是錯誤太多——漢字的筆順，中臺敎育部都搞錯很多。
-修正「成」字相關筆順。「必」「忄」「火」「右」「有」等工作量太大，改不完。
-
-#### 臺灣讀音
-https://github.com/lukhnos/openvanilla/blob/master/DataTables/bpmf-ext.cin
-97968 條臺灣單字讀音數據。
-同項目還有行列、大易之類臺灣輸入法的碼表，然並卵。
-
-#### cns2py
-https://github.com/cjkvi/cjkvi-data/blob/master/cns2py.txt
-90933 個漢字的臺灣讀音。
-
-#### 古籍字頻統計
-http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=972697
-原爲 Excel 文件，轉爲 tsv 。
-
-#### Unicode新舊字形
-Unicode 中區分新舊字形的字。自行收集，還沒幾個字。
-
-#### 純簡化字
-也就是繁體中不存在的字。
-最初來源於 http://bbs.donglishuzhai.net/thread-723-1-1.html 中的已删削文字.txt ， retrieve date: 2015/12/03 。本來衹是個繁體的大字符集五筆輸入法，不過作者用心的寫了文檔。
-然後利用「漢文博士」和被簡化的部件，繼續增加本表的字。
+見[字.md](字.md)。
 
 ## 索引
 
@@ -75,13 +32,9 @@ https://github.com/BYVoid/ytenx/blob/11dfc4bbfcb27857826efffc8463b0362af87b04/yt
 
 #### 康煕字典
 https://github.com/cjkvi/cjkvi-dict/blob/master/kx2ucs.txt
-頁碼對應最爲通用的同文書局版，含備攷和補遺。
-根據新版 Unicode 修正了「鐕」、「呈」、「况」和「㤺」。「GKX-1595.80」根據原書改作「㠼」，「KX0391.023」據原書改作「𦣽」。
-大抵帶星號的是某個字頭下的「古文」。
-個別拆字不是很好，比如 1123.33 ，作「⿳⿲⿷匚一⿱古八𠆢？」（那個問號不知道是幹嘛），不如作「⿳⿶𦥑古八⿱人女」。還有 111.30 ，應該是「⿳巛𠔿⿵冂厶」。
-「柵の形が微妙に違う」改作「⿰木𠕁」。
-1602.022 誤作「𣨂」，改爲「⿱𢀸廾」。
-1595.072 至 KX1595.082 順序錯誤，已修正。
+updated retrive date: 2016/07/11
+頁碼對應最爲通用的同文書局版，含備攷和補遺。帶星號的通常是某個字頭下的「古文」。
+根據新版 Unicode 修正了「鐕」、「呈」、「况」和「㤺」。「GKX-1595.80」根據原書改作「㠼」，「KX0391.023」據原書改作「𦣽」。「柵の形が微妙に違う」改作「⿰木𠕁」。 1602.022 誤作「𣨂」，改爲「⿱⿰歹巳廾」。 1595.072 至 KX1595.082 順序錯誤，已修正。
 
 #### 經籍䉵詁
 http://www.byscrj.com/jmm/Classic/data-sorted.js
@@ -157,106 +110,10 @@ https://github.com/kcwu/moedict-variants/blob/master/list.txt
 此處順便吐槽一下異體字字典，修到第五版還不能直接檢索，第六版可以檢索了，又無聊把圖片的 link 全部改掉。比如原本一個字的字號是 B00001 ，那麼他的正字通的圖片名稱就是 B0000137.jpg ，其中 37 是第 37 部辭書的意思。現在是把所有的字的圖片編在一起，比如這張圖片之前有 12345 張圖片，那他就是 12346.png 。
 
 ### 字形類
-基本上都是引得市裏提取的。
-
-#### 古文字通假字典
-http://www.mebag.com/index/tongjia/List.asp
-retrieve date: 2015/10/28
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-有不少缺字和頁碼錯誤。
-
-#### 字源
-http://www.mebag.com/index/tongjia/List.asp
-retrieve date: 2015/10/28
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-有不少缺字和頁碼錯誤。
-
-#### 中國隸書大字典（李志賢等）
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/10/31
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 中國正書大字典（李志賢等）
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/01
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 中國行書大字典（李志賢等）
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/02
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 中國草書大字典（李志賢等）
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/02
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 訂正六書通
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 漢魏六朝隋唐五代字形表
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 漢魏六朝碑刻異體字典
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 敦煌俗字譜
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
-
-#### 金石大字典
-http://www.mebag.com/index/shodoo/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 Excel 自動排序。點號後面是索引上的頁碼。
-
-#### 傳抄古文字編
-http://www.mebag.com/index/list.asp
-retrieve date: 2015/11/03
-Python 抓取所得，用 EmEditor 自動排序。點號後面是索引上的頁碼。
+見[字形類.md](字形類.md)。
 
 ## Unihan
-整理自 [Unihan](http://www.unicode.org/Public/UNIDATA/) 的數據。原數據普遍是給 Unicode 碼，現在把碼轉好，存成 utf-8 格式。
-官網對數據有[說明](http://www.unicode.org/reports/tr38/)。
-
-#### 廣韻
-從 Unihan_DictionaryIndices.txt 裏提取 kSBGY 的行，也就是宋本廣韻頁碼及頁內位置。
-
-#### 漢語大字典
-有兩種，都是漢語大字典的第一版。數據源是中硏院。
-不帶 IRG 的數據，有時一字多個頁碼。
-讀音條目是 Readings 裏面的。
-
-#### 康煕字典
-有兩種，都是同文書局的頁碼。
-不帶 IRG 的字數非常少。帶 IRG 的纔比較完整。
-
-#### 大漢和辭典
-又一版本的大漢和辭典字頭。
-
-#### 諸橋
-kMorohashi 數據。
-
-#### 現漢1983
-現漢 1983 版的頁碼和讀音。
-
-#### 唐音擬
-kTang 數據。
-
-#### 主要音
-kMandarin 數據。
-
-#### 四角
-衹有 GBK 的字。
-
-#### 異體
-kSemanticVariant 數據。收錄得不算多，但有出處也不錯。
+見[Unihan.md](Unihan.md)。
 
 ## 百科
 
@@ -265,9 +122,8 @@ kSemanticVariant 數據。收錄得不算多，但有出處也不錯。
 源文件錯誤非常多，隨手修正約一百條，然後用 EmEditor 按頁碼排了順序——當然，和原書裏每一頁的順序有所不同。
 
 #### 中國哲學辭典（韋政通， 2009 ）
-從超星的目錄裏提取的，順便添加了詞序。
+從超星的目錄裏提取的，順便添加了詞序和繁體化。
 詞條不多，但解釋很詳盡，六百多頁纔四百多詞。
-附帶做了繁化版。
 
 #### 中國道敎大辭典
 http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=954856
@@ -280,6 +136,8 @@ http://bbs.gxsd.com.cn/forum.php?mod=viewthread&tid=954856
 此書爲二校版，三校版已出，頁碼差距較大。
 
 ## 全文
+
+### 辭書類
 
 #### 說文解字注
 https://github.com/cjkvi/cjkvi-dict/blob/master/swjz.xml
@@ -308,20 +166,10 @@ http://cc-cedict.org/wiki/
 釋義非常簡短的中英辭典，與其說是 dictionary ，不如說是 thesaurus 。對於漢語爲母語的英語學習者來說，是一部英文用詞相當地道的中翻英辭典。
 另有 StarDict 格式版 http://simonwiles.net/files/cc-cedict/stardict-cc-cedict.tar.bz2 。
 
+### 一般古籍
+
+#### 世說新語
+轉自[維基文庫](https://zh.wikisource.org/wiki/%E4%B8%96%E8%AA%AA%E6%96%B0%E8%AA%9E/%E5%85%A8%E8%A6%BD)，改成了 TeX 格式。文字不作修改，衹爲本地瀏覽 XDD
+
 ## 其他
-
-#### 漢大詞用字
-一個爲 EverEdit 服務的腳本，可以批量替換。
-
-#### 廣韻全字表
-http://www.pkucn.com/viewthread.php?tid=175767
-
-#### txt2dsl
-顧名思義，製作 dsl 的懶人腳本，衹要根據情況塡寫一下數據就行了。
-
-#### addseq
-顧名思義，給有頁碼無頁內詞序的索引添加詞序。
-
-#### yunshu
-小學堂的查詢結果是 CC0 授權，也就是公有領域，抓了可以隨便用。那就抓唄。
-可以自定義進程數，自動檢查已經抓過的頁面。
+見[其他.md](其他.md)。
